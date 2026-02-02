@@ -1,0 +1,801 @@
+id_empresa,ciudad,latitud,longitud,sector,tamanio,estado,anio_fundacion,antiguedat_anios,num_empleados,ingresos_anual_usd,inv_rd_pct,crecimiento_anual_pct,satisfaccion_empleados
+1,Santa Marta,11.2469,-74.0515,Turismo,Grande,En crecimiento,1977,47,594,1174732.18,5.0,19.1,9.2
+2,Montevideo,-34.9033,-56.188,Retail,Pequeña,Activa,1992,32,24,43501.98,1.4,15.0,6.7
+3,Caracas,10.4806,-66.9036,Tecnología,Grande,Inactiva,2007,17,429,1958302.23,24.4,-20.4,3.1
+4,Quito,-0.1807,-78.4678,Telecomunicaciones,Pequeña,En crecimiento,1975,49,15,76465.56,12.1,16.8,8.4
+5,Pereira,4.8133,-75.6958,Finanzas,Pequeña,Inactiva,1991,33,10,29294.86,0.1,-30.4,6.5
+6,Santa Marta,11.2469,-74.0515,Energía,Mediana,Activa,1994,30,104,359941.76,10.3,4.7,7.5
+7,Rio de Janeiro,-22.9068,-43.1729,Agro,Pequeña,Estable,1987,37,17,106487.86,7.8,-2.0,6.6
+8,Quito,-0.1807,-78.4678,Energía,Mediana,En riesgo,1986,38,55,283110.26,7.2,-5.8,3.0
+9,Quito,-0.1807,-78.4678,Turismo,Mediana,Inactiva,1981,43,68,174838.54,0.1,-22.4,5.0
+10,Barranquilla,11.0719,-74.7819,Finanzas,Mediana,En crecimiento,1975,49,75,170841.55,2.5,25.3,7.6
+11,Pereira,4.8133,-75.6958,Agro,Pequeña,Estable,1995,29,12,46138.8,0.8,3.2,8.9
+12,Cali,3.4516,-76.6319,Salud,Mediana,En crecimiento,1996,28,46,503561.64,13.6,23.4,9.1
+13,Medellín,6.2518,-75.5636,Telecomunicaciones,Mediana,Activa,1977,47,105,293948.49,14.7,-1.5,6.6
+14,Lima,-12.0464,-77.0428,Energía,Mediana,Estable,1988,36,72,329771.0,14.6,6.8,5.2
+15,Bucaramanga,7.088,-73.0836,Salud,Mediana,Estable,2011,13,80,182292.33,7.7,-1.4,7.2
+16,Medellín,6.2518,-75.5636,Energía,Pequeña,Inactiva,1970,54,11,81743.13,8.9,-25.2,2.5
+17,Bogotá,-4.711,-74.0721,Turismo,Mediana,En crecimiento,1998,26,96,169178.3,3.9,19.2,7.8
+18,Lima,-12.0464,-77.0428,Energía,Pequeña,Activa,2014,10,16,38852.59,10.6,8.9,8.5
+19,Lima,-12.0464,-77.0428,Energía,Mediana,Activa,2018,6,129,411060.29,15.7,11.4,5.2
+20,Guayaquil,-2.19,-79.897,Tecnología,Grande,En crecimiento,2004,20,484,541046.18,12.0,15.9,8.1
+21,Popayán,2.4419,-76.6109,Turismo,Mediana,En crecimiento,2009,15,73,327262.65,0.1,23.5,8.7
+22,Panamá,8.9936,-79.5193,Telecomunicaciones,Mediana,En riesgo,1983,41,59,178438.8,18.2,-14.7,5.5
+23,Caracas,10.4806,-66.9036,Educación,Multinacional,En crecimiento,2004,20,3534,8066472.24,10.3,29.9,6.2
+24,Caracas,10.4806,-66.9036,Turismo,Grande,Inactiva,2017,7,357,1257892.0,1.3,-31.7,3.7
+25,Rio de Janeiro,-22.9068,-43.1729,Educación,Multinacional,Inactiva,2014,10,2334,22928001.91,8.5,-31.0,4.6
+26,Lima,-12.0464,-77.0428,Finanzas,Grande,Estable,1989,35,373,1232327.32,5.7,-0.2,7.3
+27,Montevideo,-34.9033,-56.188,Turismo,Pequeña,Inactiva,2018,6,12,125630.96,1.2,-30.6,3.1
+28,Cali,3.4516,-76.6319,Turismo,Pequeña,En riesgo,1982,42,14,67054.06,3.4,-13.3,5.9
+29,Cartagena,10.423,-75.5434,Salud,Mediana,En crecimiento,2007,17,172,200949.37,16.1,18.8,7.0
+30,Rio de Janeiro,-22.9068,-43.1729,Manufactura,Pequeña,Activa,2018,6,9,58993.57,12.0,8.5,5.4
+31,Santa Marta,11.2469,-74.0515,Tecnología,Mediana,En crecimiento,2015,9,57,257643.69,20.9,28.0,7.6
+32,Manizales,5.0689,-75.5175,Tecnología,Pequeña,Estable,2018,6,26,56435.69,23.2,2.4,7.5
+33,Santa Marta,11.2469,-74.0515,Tecnología,Mediana,En riesgo,1977,47,68,209943.19,14.0,-11.0,5.7
+34,São Paulo,-23.5505,-46.6333,Tecnología,Grande,En crecimiento,2012,12,334,3492276.88,17.0,15.7,8.4
+35,Barranquilla,11.0719,-74.7819,Finanzas,Grande,En riesgo,1989,35,605,2382532.87,5.7,-12.8,5.5
+36,Buenos Aires,-34.6037,-58.3816,Manufactura,Mediana,Estable,2002,22,45,304805.31,0.2,-0.5,8.2
+37,São Paulo,-23.5505,-46.6333,Agro,Grande,Activa,1995,29,555,3560932.65,7.5,12.1,6.8
+38,Manizales,5.0689,-75.5175,Tecnología,Mediana,Inactiva,2008,16,81,311351.37,19.9,-29.6,3.0
+39,Medellín,6.2518,-75.5636,Retail,Grande,En crecimiento,1990,34,481,2596793.96,0.9,16.8,9.3
+40,Montevideo,-34.9033,-56.188,Energía,Pequeña,En crecimiento,2022,2,17,50966.74,9.4,23.9,6.3
+41,Caracas,10.4806,-66.9036,Finanzas,Multinacional,Estable,2018,6,1944,9741404.82,8.8,13.9,7.4
+42,Santa Marta,11.2469,-74.0515,Telecomunicaciones,Mediana,Activa,2011,13,121,288029.55,9.6,6.9,6.3
+43,Lima,-12.0464,-77.0428,Telecomunicaciones,Pequeña,Estable,2012,12,12,52440.21,15.9,3.0,8.2
+44,Pereira,4.8133,-75.6958,Salud,Pequeña,En crecimiento,2023,1,17,54450.33,14.2,27.7,7.8
+45,Caracas,10.4806,-66.9036,Finanzas,Mediana,En crecimiento,2010,14,131,214630.2,7.3,25.1,7.8
+46,Cali,3.4516,-76.6319,Retail,Pequeña,Inactiva,1978,46,26,40914.67,2.3,-21.9,5.3
+47,Buenos Aires,-34.6037,-58.3816,Energía,Pequeña,En crecimiento,1993,31,13,44864.44,16.7,21.4,6.5
+48,Guayaquil,-2.19,-79.897,Tecnología,Mediana,Activa,2006,18,96,336513.4,15.3,7.5,7.5
+49,Barranquilla,11.0719,-74.7819,Agro,Mediana,En crecimiento,2018,6,69,295448.03,2.3,17.5,7.6
+50,São Paulo,-23.5505,-46.6333,Agro,Mediana,Inactiva,2010,14,217,539314.42,0.1,-22.1,3.8
+51,Pereira,4.8133,-75.6958,Energía,Multinacional,Activa,1986,38,3415,12219104.89,6.7,10.8,9.5
+52,Barranquilla,11.0719,-74.7819,Agro,Mediana,Activa,1993,31,82,271950.13,6.1,12.3,6.5
+53,Medellín,6.2518,-75.5636,Agro,Mediana,Activa,1990,34,90,598648.39,8.8,5.1,5.8
+54,Bucaramanga,7.088,-73.0836,Salud,Pequeña,Activa,2020,4,17,127553.17,17.5,13.0,6.2
+55,Popayán,2.4419,-76.6109,Salud,Grande,En riesgo,2008,16,476,539858.59,15.0,-5.2,4.2
+56,Barranquilla,11.0719,-74.7819,Manufactura,Pequeña,Estable,2010,14,13,79691.91,3.3,-5.3,7.0
+57,São Paulo,-23.5505,-46.6333,Retail,Multinacional,En crecimiento,2008,16,2135,5657315.25,4.7,20.2,7.9
+58,Lima,-12.0464,-77.0428,Educación,Grande,Estable,1982,42,376,2238574.14,5.2,9.1,9.1
+59,Medellín,6.2518,-75.5636,Turismo,Mediana,En crecimiento,1980,44,50,557187.3,0.1,18.1,9.7
+60,Popayán,2.4419,-76.6109,Manufactura,Pequeña,Inactiva,2015,9,19,32250.28,5.1,-21.8,4.8
+61,Barranquilla,11.0719,-74.7819,Finanzas,Grande,Inactiva,1988,36,290,594105.46,0.1,-24.9,6.2
+62,Buenos Aires,-34.6037,-58.3816,Energía,Grande,En crecimiento,1980,44,261,2277736.42,5.9,24.0,8.8
+63,Panamá,8.9936,-79.5193,Retail,Pequeña,En riesgo,1982,42,14,53502.28,7.7,-11.8,5.8
+64,Caracas,10.4806,-66.9036,Manufactura,Pequeña,En riesgo,2015,9,14,21710.67,1.3,-7.5,5.5
+65,Pereira,4.8133,-75.6958,Turismo,Grande,En crecimiento,2014,10,442,5313481.98,0.1,15.9,8.6
+66,Buenos Aires,-34.6037,-58.3816,Finanzas,Pequeña,Activa,1970,54,11,68322.06,5.2,2.5,7.7
+67,Pereira,4.8133,-75.6958,Turismo,Multinacional,En crecimiento,2009,15,2136,11184082.5,3.4,30.8,7.3
+68,Panamá,8.9936,-79.5193,Educación,Mediana,En riesgo,2013,11,105,593888.36,7.3,0.6,3.0
+69,Santiago,-33.4489,-70.6693,Finanzas,Pequeña,Inactiva,1988,36,19,37397.77,0.1,-25.0,3.0
+70,São Paulo,-23.5505,-46.6333,Turismo,Grande,En riesgo,1981,43,506,1601102.04,5.5,-1.7,5.2
+71,Caracas,10.4806,-66.9036,Tecnología,Pequeña,En riesgo,1977,47,15,25851.33,16.7,-16.6,4.6
+72,Santiago,-33.4489,-70.6693,Salud,Mediana,Estable,1977,47,85,221363.97,18.7,-1.2,5.6
+73,Manizales,5.0689,-75.5175,Turismo,Pequeña,En riesgo,2022,2,16,60633.83,1.1,-3.3,4.3
+74,Caracas,10.4806,-66.9036,Finanzas,Pequeña,En riesgo,2014,10,11,21744.93,7.9,-7.2,4.2
+75,Santiago,-33.4489,-70.6693,Educación,Mediana,En crecimiento,1981,43,144,218249.24,11.9,31.6,7.7
+76,Bogotá,-4.711,-74.0721,Energía,Mediana,Estable,2017,7,136,188635.29,8.6,4.8,7.5
+77,Santa Marta,11.2469,-74.0515,Manufactura,Mediana,En riesgo,2002,22,109,322089.22,8.6,-18.1,5.3
+78,Manizales,5.0689,-75.5175,Salud,Grande,Activa,2014,10,337,1999337.23,11.0,9.3,6.6
+79,Bogotá,-4.711,-74.0721,Retail,Mediana,En riesgo,1995,29,99,434788.14,2.8,-4.8,5.7
+80,Lima,-12.0464,-77.0428,Finanzas,Pequeña,Activa,2008,16,22,82387.3,8.7,7.2,8.6
+81,Pereira,4.8133,-75.6958,Energía,Pequeña,En crecimiento,1997,27,9,99293.63,11.6,20.3,8.2
+82,Quito,-0.1807,-78.4678,Turismo,Multinacional,En riesgo,1974,50,4923,10838062.77,10.2,-9.1,5.3
+83,Rio de Janeiro,-22.9068,-43.1729,Telecomunicaciones,Grande,Activa,1977,47,199,3854082.81,13.7,4.6,8.4
+84,Guayaquil,-2.19,-79.897,Energía,Mediana,Activa,1994,30,106,318471.74,8.9,9.8,5.9
+85,Pereira,4.8133,-75.6958,Energía,Pequeña,En crecimiento,1996,28,26,45849.41,18.5,22.4,9.1
+86,Cali,3.4516,-76.6319,Energía,Pequeña,En riesgo,2015,9,14,67739.99,14.9,-14.9,3.6
+87,Cali,3.4516,-76.6319,Tecnología,Grande,Activa,1992,32,376,1346164.61,13.2,13.9,6.4
+88,Bogotá,-4.711,-74.0721,Salud,Grande,Inactiva,1999,25,522,3787656.43,12.6,-21.1,3.4
+89,Cartagena,10.423,-75.5434,Energía,Mediana,Activa,2014,10,167,528093.95,6.9,5.9,4.6
+90,Popayán,2.4419,-76.6109,Finanzas,Grande,Inactiva,2016,8,357,2182790.67,6.9,-25.1,3.4
+91,Santa Marta,11.2469,-74.0515,Energía,Grande,Inactiva,1992,32,292,1601874.94,11.7,-26.6,4.4
+92,Manizales,5.0689,-75.5175,Tecnología,Pequeña,En crecimiento,2018,6,12,40783.78,19.7,18.2,5.8
+93,Santa Marta,11.2469,-74.0515,Turismo,Mediana,En crecimiento,2016,8,42,426002.4,0.1,11.8,9.1
+94,Manizales,5.0689,-75.5175,Finanzas,Pequeña,En crecimiento,1989,35,21,28459.28,3.1,19.1,7.0
+95,Pereira,4.8133,-75.6958,Finanzas,Pequeña,Estable,1987,37,12,107684.4,4.6,-1.7,7.1
+96,Lima,-12.0464,-77.0428,Manufactura,Grande,Activa,1987,37,368,1372517.65,0.5,8.7,6.5
+97,Medellín,6.2518,-75.5636,Turismo,Mediana,Activa,1971,53,115,349441.39,0.4,10.6,7.9
+98,Bogotá,-4.711,-74.0721,Turismo,Mediana,Activa,1973,51,68,190372.36,7.1,3.2,8.4
+99,Panamá,8.9936,-79.5193,Finanzas,Pequeña,En crecimiento,1999,25,20,71773.56,0.3,24.2,8.6
+100,Cartagena,10.423,-75.5434,Finanzas,Pequeña,Activa,2002,22,9,39851.19,9.4,2.3,7.2
+101,Cali,3.4516,-76.6319,Energía,Pequeña,Estable,2005,19,22,69174.85,13.3,1.2,6.3
+102,Lima,-12.0464,-77.0428,Tecnología,Pequeña,Inactiva,1987,37,17,73019.0,17.1,-28.6,3.1
+103,Pereira,4.8133,-75.6958,Turismo,Mediana,En crecimiento,2006,18,77,217014.99,1.1,26.5,8.6
+104,Cali,3.4516,-76.6319,Turismo,Pequeña,Estable,1988,36,15,28510.1,5.5,2.7,7.7
+105,Bogotá,-4.711,-74.0721,Energía,Mediana,En crecimiento,2016,8,47,645311.04,7.6,21.3,8.5
+106,Cali,3.4516,-76.6319,Turismo,Pequeña,En riesgo,1997,27,15,45416.41,0.8,-15.8,3.0
+107,Cartagena,10.423,-75.5434,Agro,Pequeña,Inactiva,2009,15,14,55949.38,3.9,-27.0,3.2
+108,Caracas,10.4806,-66.9036,Telecomunicaciones,Pequeña,En riesgo,1989,35,9,63736.36,5.6,-1.0,3.7
+109,Buenos Aires,-34.6037,-58.3816,Educación,Mediana,Inactiva,2018,6,61,160281.62,3.7,-28.0,4.0
+110,Cali,3.4516,-76.6319,Salud,Mediana,Activa,2002,22,75,378083.68,14.1,10.9,6.3
+111,Bogotá,-4.711,-74.0721,Finanzas,Mediana,En riesgo,1981,43,62,315243.62,6.4,-12.7,5.0
+112,Cartagena,10.423,-75.5434,Educación,Mediana,En riesgo,2020,4,30,217460.48,5.6,-9.3,4.2
+113,Buenos Aires,-34.6037,-58.3816,Manufactura,Grande,Activa,1984,40,615,841303.43,5.4,13.0,4.9
+114,Santa Marta,11.2469,-74.0515,Retail,Pequeña,Inactiva,2010,14,14,67691.85,0.1,-27.1,4.3
+115,Manizales,5.0689,-75.5175,Tecnología,Pequeña,Activa,2008,16,6,87871.81,20.8,12.3,7.2
+116,Caracas,10.4806,-66.9036,Tecnología,Grande,Estable,1971,53,939,1640105.17,18.7,18.5,8.4
+117,Caracas,10.4806,-66.9036,Salud,Mediana,Activa,1998,26,131,146430.34,15.9,11.4,5.2
+118,Popayán,2.4419,-76.6109,Energía,Pequeña,En crecimiento,2010,14,13,29469.52,11.5,31.7,7.5
+119,Santiago,-33.4489,-70.6693,Turismo,Multinacional,Estable,1979,45,1784,6445483.72,3.2,4.9,6.6
+120,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Grande,Estable,1971,53,470,3279775.51,16.5,-3.6,7.2
+121,Santa Marta,11.2469,-74.0515,Retail,Pequeña,En crecimiento,2020,4,16,44196.59,5.4,23.7,6.2
+122,Guayaquil,-2.19,-79.897,Agro,Mediana,En crecimiento,1980,44,99,237341.02,4.5,20.0,8.5
+123,Montevideo,-34.9033,-56.188,Tecnología,Mediana,En riesgo,1982,42,57,129935.75,17.5,-15.6,6.8
+124,Barranquilla,11.0719,-74.7819,Manufactura,Mediana,Activa,1979,45,124,216034.92,6.0,7.6,7.8
+125,Cartagena,10.423,-75.5434,Energía,Pequeña,En crecimiento,1983,41,12,26992.39,9.9,21.1,7.9
+126,Santa Marta,11.2469,-74.0515,Finanzas,Pequeña,Inactiva,1987,37,19,30278.35,4.5,-31.4,1.5
+127,Santiago,-33.4489,-70.6693,Tecnología,Mediana,En riesgo,2020,4,58,318543.11,19.3,4.3,3.6
+128,Caracas,10.4806,-66.9036,Tecnología,Mediana,En crecimiento,2023,1,230,245476.29,15.2,26.8,7.7
+129,Quito,-0.1807,-78.4678,Tecnología,Grande,En riesgo,1978,46,528,3508583.29,15.4,-10.5,3.9
+130,Barranquilla,11.0719,-74.7819,Agro,Mediana,En riesgo,2008,16,253,514288.38,5.7,-11.5,5.7
+131,Santiago,-33.4489,-70.6693,Retail,Pequeña,En riesgo,1997,27,20,36876.74,1.6,-4.8,5.1
+132,Santa Marta,11.2469,-74.0515,Tecnología,Mediana,En crecimiento,1972,52,63,189686.66,20.9,34.5,10.0
+133,Rio de Janeiro,-22.9068,-43.1729,Salud,Pequeña,Activa,1989,35,20,99817.55,16.2,12.1,6.0
+134,Medellín,6.2518,-75.5636,Salud,Mediana,Activa,1975,49,114,688010.24,13.3,8.7,7.2
+135,Popayán,2.4419,-76.6109,Salud,Mediana,Activa,1996,28,92,100148.93,16.7,16.8,5.5
+136,Santiago,-33.4489,-70.6693,Agro,Pequeña,Estable,2022,2,19,52376.18,7.6,2.9,4.2
+137,Bucaramanga,7.088,-73.0836,Educación,Mediana,Activa,1971,53,108,264500.55,9.3,10.6,8.1
+138,Lima,-12.0464,-77.0428,Educación,Pequeña,Estable,1998,26,10,69171.1,10.0,8.0,7.5
+139,Lima,-12.0464,-77.0428,Salud,Pequeña,En crecimiento,2007,17,9,132073.3,14.5,19.7,6.8
+140,Montevideo,-34.9033,-56.188,Manufactura,Pequeña,Activa,1972,52,10,39251.69,9.0,-4.5,7.3
+141,Quito,-0.1807,-78.4678,Finanzas,Pequeña,En riesgo,1985,39,15,17844.11,3.3,-14.6,3.7
+142,Santa Marta,11.2469,-74.0515,Energía,Multinacional,En crecimiento,1999,25,2286,10686116.67,11.0,26.6,7.2
+143,Bogotá,-4.711,-74.0721,Salud,Mediana,Activa,2009,15,54,601101.92,22.7,12.2,6.8
+144,Bogotá,-4.711,-74.0721,Agro,Pequeña,En riesgo,1971,53,20,42954.57,5.6,-3.9,3.4
+145,Montevideo,-34.9033,-56.188,Manufactura,Mediana,Activa,1986,38,89,210874.62,4.7,5.6,6.3
+146,Santiago,-33.4489,-70.6693,Tecnología,Pequeña,Estable,2010,14,16,40180.96,16.7,11.5,6.1
+147,Manizales,5.0689,-75.5175,Finanzas,Multinacional,En riesgo,1981,43,2254,12237979.93,4.8,-10.9,5.0
+148,Cali,3.4516,-76.6319,Retail,Mediana,En crecimiento,2004,20,68,239021.14,4.6,25.6,4.5
+149,Santa Marta,11.2469,-74.0515,Retail,Grande,En riesgo,2012,12,285,1767993.45,2.4,-6.6,4.2
+150,Bucaramanga,7.088,-73.0836,Finanzas,Pequeña,En crecimiento,1970,54,21,50699.93,3.1,13.7,6.5
+151,Pereira,4.8133,-75.6958,Finanzas,Mediana,En crecimiento,2014,10,60,288903.48,3.0,16.0,6.5
+152,Manizales,5.0689,-75.5175,Retail,Mediana,Activa,1984,40,86,425995.44,2.5,1.8,6.6
+153,Cartagena,10.423,-75.5434,Turismo,Grande,Activa,1995,29,777,1180779.91,3.1,14.4,7.2
+154,Bogotá,-4.711,-74.0721,Tecnología,Pequeña,Inactiva,2006,18,13,40315.25,19.4,-26.8,2.9
+155,Rio de Janeiro,-22.9068,-43.1729,Retail,Pequeña,En crecimiento,1990,34,22,74501.89,4.8,34.2,6.5
+156,Popayán,2.4419,-76.6109,Salud,Multinacional,En crecimiento,2018,6,3138,4884069.96,23.2,22.0,8.7
+157,Lima,-12.0464,-77.0428,Turismo,Mediana,En crecimiento,2000,24,90,193189.66,0.1,13.2,6.7
+158,Caracas,10.4806,-66.9036,Salud,Pequeña,Estable,1994,30,17,26625.41,17.1,-2.0,6.0
+159,Manizales,5.0689,-75.5175,Tecnología,Pequeña,Activa,1992,32,14,76441.71,18.3,8.7,7.5
+160,Montevideo,-34.9033,-56.188,Educación,Multinacional,En crecimiento,1993,31,2535,7589935.23,2.5,25.1,8.2
+161,Guayaquil,-2.19,-79.897,Agro,Pequeña,Estable,2007,17,12,25925.2,7.7,-3.9,6.2
+162,Guayaquil,-2.19,-79.897,Educación,Grande,Activa,1997,27,406,2298758.95,9.3,11.4,3.7
+163,Montevideo,-34.9033,-56.188,Salud,Grande,Activa,1990,34,316,1136205.3,17.4,13.0,6.1
+164,Lima,-12.0464,-77.0428,Salud,Pequeña,Activa,2023,1,22,32336.09,9.9,4.2,7.4
+165,Santa Marta,11.2469,-74.0515,Turismo,Mediana,En crecimiento,2012,12,40,272038.39,2.3,33.8,8.6
+166,Medellín,6.2518,-75.5636,Telecomunicaciones,Pequeña,En riesgo,1987,37,18,104729.92,8.8,-15.2,4.4
+167,Cali,3.4516,-76.6319,Finanzas,Pequeña,Activa,2005,19,17,41039.78,11.5,2.0,6.6
+168,Guayaquil,-2.19,-79.897,Turismo,Grande,Activa,2004,20,441,1999974.72,6.4,-1.2,10.0
+169,Cartagena,10.423,-75.5434,Retail,Grande,En crecimiento,2014,10,602,2157618.61,0.1,29.3,7.4
+170,Guayaquil,-2.19,-79.897,Turismo,Mediana,Estable,1978,46,71,374435.34,0.1,2.1,7.6
+171,Guayaquil,-2.19,-79.897,Salud,Mediana,Estable,2022,2,88,566410.06,15.6,-0.9,5.3
+172,Guayaquil,-2.19,-79.897,Educación,Pequeña,En crecimiento,2007,17,7,35109.26,11.3,13.2,6.5
+173,Medellín,6.2518,-75.5636,Educación,Pequeña,En riesgo,1999,25,12,29676.5,2.8,-14.3,5.3
+174,Medellín,6.2518,-75.5636,Finanzas,Pequeña,Estable,2013,11,21,29386.63,2.2,16.3,8.2
+175,Cartagena,10.423,-75.5434,Finanzas,Pequeña,En riesgo,2003,21,8,46515.65,1.7,-24.9,4.0
+176,Bogotá,-4.711,-74.0721,Agro,Pequeña,En riesgo,2001,23,15,31140.2,6.6,-15.8,2.3
+177,Bogotá,-4.711,-74.0721,Educación,Pequeña,Activa,1972,52,11,53827.98,6.9,18.8,7.0
+178,Rio de Janeiro,-22.9068,-43.1729,Finanzas,Pequeña,Activa,1972,52,14,51962.24,4.0,15.5,7.4
+179,Medellín,6.2518,-75.5636,Manufactura,Pequeña,Activa,1997,27,11,83205.18,6.5,4.6,7.3
+180,Lima,-12.0464,-77.0428,Finanzas,Mediana,En crecimiento,2013,11,48,347010.36,2.4,23.2,7.1
+181,Bucaramanga,7.088,-73.0836,Agro,Grande,Inactiva,1984,40,466,1218218.05,0.1,-22.2,3.0
+182,Barranquilla,11.0719,-74.7819,Turismo,Pequeña,En crecimiento,2010,14,14,61402.32,7.1,22.8,6.9
+183,Quito,-0.1807,-78.4678,Educación,Multinacional,Activa,1992,32,3194,4779541.07,12.4,18.7,5.9
+184,Guayaquil,-2.19,-79.897,Energía,Grande,En riesgo,2009,15,549,1471665.52,10.5,-10.0,5.4
+185,Bucaramanga,7.088,-73.0836,Turismo,Pequeña,En crecimiento,1980,44,24,58657.98,3.8,28.8,7.9
+186,Cartagena,10.423,-75.5434,Turismo,Grande,Activa,2017,7,421,1600192.46,6.8,9.1,7.0
+187,Montevideo,-34.9033,-56.188,Finanzas,Mediana,En crecimiento,2001,23,132,369191.33,5.5,9.8,7.2
+188,Medellín,6.2518,-75.5636,Finanzas,Mediana,En crecimiento,2023,1,54,217404.46,3.7,14.8,7.6
+189,Bucaramanga,7.088,-73.0836,Energía,Pequeña,En riesgo,2005,19,21,88946.82,10.1,-17.9,4.7
+190,Quito,-0.1807,-78.4678,Tecnología,Mediana,Activa,2002,22,96,746105.45,22.2,6.5,9.3
+191,Panamá,8.9936,-79.5193,Educación,Pequeña,Activa,1993,31,16,22436.41,8.2,20.5,8.0
+192,Panamá,8.9936,-79.5193,Tecnología,Mediana,En crecimiento,2008,16,95,163364.43,16.0,24.2,7.0
+193,Bogotá,-4.711,-74.0721,Energía,Mediana,Activa,2003,21,54,306532.56,10.4,7.4,6.4
+194,Manizales,5.0689,-75.5175,Educación,Mediana,Estable,1997,27,49,263883.31,10.0,9.4,5.9
+195,Bucaramanga,7.088,-73.0836,Retail,Mediana,En crecimiento,2006,18,158,774322.67,3.6,13.3,7.6
+196,Panamá,8.9936,-79.5193,Turismo,Grande,En crecimiento,1976,48,373,1674236.55,4.7,19.1,6.8
+197,Cali,3.4516,-76.6319,Agro,Pequeña,Inactiva,1973,51,13,100313.03,1.5,-28.8,3.8
+198,Montevideo,-34.9033,-56.188,Telecomunicaciones,Pequeña,Estable,2006,18,9,17947.68,14.3,4.4,3.7
+199,Barranquilla,11.0719,-74.7819,Agro,Grande,Activa,1970,54,221,2253647.13,4.1,13.4,7.8
+200,Rio de Janeiro,-22.9068,-43.1729,Retail,Pequeña,Estable,1970,54,14,34962.1,0.1,4.8,7.2
+201,Cali,3.4516,-76.6319,Finanzas,Pequeña,En riesgo,2016,8,13,34683.07,7.3,-9.1,6.0
+202,Rio de Janeiro,-22.9068,-43.1729,Turismo,Pequeña,Estable,1989,35,15,44161.09,1.6,-0.2,8.0
+203,Montevideo,-34.9033,-56.188,Salud,Pequeña,Activa,1988,36,15,24525.94,10.3,9.9,6.4
+204,Santa Marta,11.2469,-74.0515,Salud,Multinacional,Inactiva,1998,26,6767,9982507.43,12.0,-30.0,4.1
+205,Montevideo,-34.9033,-56.188,Turismo,Mediana,En crecimiento,1979,45,69,330015.61,2.5,26.0,7.6
+206,Manizales,5.0689,-75.5175,Turismo,Multinacional,Activa,1987,37,4703,9138878.41,4.7,5.0,4.9
+207,Bogotá,-4.711,-74.0721,Educación,Mediana,Activa,1997,27,154,467452.62,5.4,1.3,7.4
+208,Pereira,4.8133,-75.6958,Turismo,Mediana,Activa,2004,20,108,639811.43,2.3,8.2,6.5
+209,Santa Marta,11.2469,-74.0515,Retail,Pequeña,En riesgo,2012,12,13,41686.09,0.1,-23.5,4.5
+210,São Paulo,-23.5505,-46.6333,Turismo,Mediana,Activa,2016,8,46,380869.88,5.9,16.8,9.2
+211,Pereira,4.8133,-75.6958,Energía,Pequeña,Activa,2000,24,18,57888.41,15.2,12.8,7.5
+212,Bogotá,-4.711,-74.0721,Agro,Grande,En riesgo,1996,28,601,1811712.19,8.8,-10.0,3.3
+213,Quito,-0.1807,-78.4678,Telecomunicaciones,Grande,En crecimiento,1980,44,804,1825335.75,14.9,12.3,9.0
+214,São Paulo,-23.5505,-46.6333,Manufactura,Pequeña,Activa,2018,6,10,110749.92,8.6,3.8,7.6
+215,Popayán,2.4419,-76.6109,Agro,Multinacional,Activa,2018,6,2267,6357295.86,0.1,8.2,5.8
+216,Cali,3.4516,-76.6319,Telecomunicaciones,Grande,Activa,2007,17,274,699490.66,12.5,6.4,5.3
+217,Santa Marta,11.2469,-74.0515,Telecomunicaciones,Mediana,Activa,1974,50,62,211631.3,10.5,-2.1,6.0
+218,Panamá,8.9936,-79.5193,Tecnología,Pequeña,Estable,1977,47,19,73014.38,20.6,-5.9,7.9
+219,Panamá,8.9936,-79.5193,Finanzas,Mediana,Activa,2003,21,60,303519.92,0.1,6.3,6.8
+220,Montevideo,-34.9033,-56.188,Educación,Mediana,Activa,2017,7,57,237456.11,8.6,0.3,7.3
+221,Guayaquil,-2.19,-79.897,Tecnología,Pequeña,En riesgo,2021,3,20,29188.49,17.4,-3.8,2.9
+222,Medellín,6.2518,-75.5636,Manufactura,Pequeña,Estable,1981,43,17,55849.81,9.4,5.0,7.9
+223,Bogotá,-4.711,-74.0721,Energía,Grande,En crecimiento,2007,17,460,2070351.18,14.6,17.2,5.4
+224,Panamá,8.9936,-79.5193,Agro,Pequeña,En crecimiento,1970,54,11,58262.52,1.2,29.0,7.0
+225,Lima,-12.0464,-77.0428,Tecnología,Mediana,En crecimiento,2000,24,134,264308.59,15.3,27.8,8.3
+226,Cartagena,10.423,-75.5434,Retail,Multinacional,En crecimiento,1973,51,2514,8608604.13,2.7,23.7,6.5
+227,Cartagena,10.423,-75.5434,Manufactura,Grande,En crecimiento,2018,6,1036,1609440.48,11.2,21.8,8.5
+228,Manizales,5.0689,-75.5175,Energía,Pequeña,En crecimiento,2014,10,15,54974.61,10.2,20.2,6.8
+229,Manizales,5.0689,-75.5175,Retail,Grande,Inactiva,2019,5,157,829703.09,0.1,-28.2,1.7
+230,Cali,3.4516,-76.6319,Manufactura,Pequeña,Activa,1974,50,5,55184.72,4.2,-0.0,8.7
+231,Rio de Janeiro,-22.9068,-43.1729,Educación,Pequeña,En riesgo,1999,25,19,40113.97,8.6,-2.8,4.7
+232,Panamá,8.9936,-79.5193,Agro,Mediana,Activa,1993,31,134,504764.4,4.7,4.9,7.8
+233,Panamá,8.9936,-79.5193,Educación,Pequeña,En riesgo,1972,52,10,53435.87,5.9,-11.8,5.7
+234,Cali,3.4516,-76.6319,Tecnología,Pequeña,Estable,1980,44,34,75926.26,16.1,-3.5,3.8
+235,Montevideo,-34.9033,-56.188,Agro,Mediana,En riesgo,2014,10,155,257982.51,1.1,-13.6,5.3
+236,Bogotá,-4.711,-74.0721,Educación,Pequeña,Activa,1973,51,16,43779.52,11.4,25.1,6.3
+237,Montevideo,-34.9033,-56.188,Energía,Pequeña,Estable,1995,29,18,105546.18,7.5,-2.4,6.1
+238,Quito,-0.1807,-78.4678,Educación,Mediana,En crecimiento,1996,28,114,373138.65,6.6,30.7,8.3
+239,Guayaquil,-2.19,-79.897,Retail,Grande,Estable,2015,9,851,1049388.74,0.5,1.8,6.5
+240,Pereira,4.8133,-75.6958,Salud,Mediana,En crecimiento,2023,1,105,469782.44,10.2,26.1,8.5
+241,Barranquilla,11.0719,-74.7819,Telecomunicaciones,Pequeña,En crecimiento,2012,12,16,38296.96,9.4,29.5,7.8
+242,Bucaramanga,7.088,-73.0836,Energía,Mediana,En crecimiento,1996,28,104,335838.89,13.7,23.6,8.0
+243,Pereira,4.8133,-75.6958,Tecnología,Pequeña,En crecimiento,2011,13,18,125256.08,14.4,19.9,7.2
+244,Montevideo,-34.9033,-56.188,Turismo,Pequeña,En crecimiento,2020,4,21,24443.93,0.1,20.9,6.5
+245,Cali,3.4516,-76.6319,Telecomunicaciones,Grande,Activa,2019,5,213,1373791.1,8.0,7.1,6.3
+246,Panamá,8.9936,-79.5193,Finanzas,Pequeña,Inactiva,1975,49,17,61323.24,4.7,-13.8,3.1
+247,Cali,3.4516,-76.6319,Salud,Pequeña,Estable,1984,40,18,73286.19,20.7,-6.9,9.1
+248,São Paulo,-23.5505,-46.6333,Finanzas,Mediana,Inactiva,2022,2,77,161283.8,4.6,-35.6,5.0
+249,Buenos Aires,-34.6037,-58.3816,Turismo,Mediana,Activa,1999,25,109,139196.6,3.2,-2.2,6.4
+250,São Paulo,-23.5505,-46.6333,Energía,Mediana,En riesgo,2011,13,172,517576.4,7.6,-17.4,4.6
+251,Medellín,6.2518,-75.5636,Manufactura,Pequeña,En riesgo,2006,18,15,34876.58,5.8,-7.8,4.2
+252,Cali,3.4516,-76.6319,Finanzas,Pequeña,Estable,2006,18,19,34154.07,8.7,6.6,7.1
+253,Panamá,8.9936,-79.5193,Salud,Pequeña,Estable,2011,13,28,108543.16,15.4,-1.6,7.2
+254,Manizales,5.0689,-75.5175,Manufactura,Pequeña,En crecimiento,2006,18,16,51773.28,12.4,21.8,8.4
+255,Barranquilla,11.0719,-74.7819,Finanzas,Mediana,En riesgo,2004,20,56,311656.49,8.8,-18.7,1.0
+256,Bogotá,-4.711,-74.0721,Tecnología,Grande,En crecimiento,1992,32,511,1371034.25,17.7,15.9,8.2
+257,Barranquilla,11.0719,-74.7819,Retail,Grande,Activa,1975,49,165,813405.17,1.7,11.5,6.7
+258,Bogotá,-4.711,-74.0721,Manufactura,Grande,En crecimiento,1973,51,159,2102892.09,10.9,28.3,7.0
+259,Buenos Aires,-34.6037,-58.3816,Manufactura,Mediana,Inactiva,1987,37,91,368156.36,6.4,-27.9,4.2
+260,Panamá,8.9936,-79.5193,Agro,Mediana,En riesgo,1978,46,31,326401.47,8.2,-2.2,6.3
+261,Montevideo,-34.9033,-56.188,Turismo,Pequeña,Inactiva,2018,6,8,47174.88,9.0,-19.2,4.0
+262,Pereira,4.8133,-75.6958,Agro,Mediana,Estable,1998,26,68,259205.88,3.4,11.6,6.3
+263,Santa Marta,11.2469,-74.0515,Finanzas,Mediana,Activa,1982,42,59,473439.52,6.1,6.2,5.9
+264,Cali,3.4516,-76.6319,Tecnología,Pequeña,Activa,2016,8,14,46589.56,20.9,17.1,3.6
+265,Guayaquil,-2.19,-79.897,Finanzas,Pequeña,Activa,2021,3,23,48423.85,7.3,21.1,7.4
+266,Bogotá,-4.711,-74.0721,Finanzas,Multinacional,Activa,1986,38,2750,10426890.76,7.3,5.5,7.9
+267,Panamá,8.9936,-79.5193,Energía,Pequeña,En crecimiento,2014,10,10,55478.94,6.0,21.1,7.7
+268,Lima,-12.0464,-77.0428,Tecnología,Pequeña,Activa,2001,23,25,113654.26,15.5,2.3,8.3
+269,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Mediana,En crecimiento,2017,7,45,124349.87,16.5,15.1,6.2
+270,Buenos Aires,-34.6037,-58.3816,Salud,Grande,Inactiva,1991,33,437,1742670.71,18.6,-31.8,3.0
+271,Bucaramanga,7.088,-73.0836,Salud,Mediana,En crecimiento,1973,51,43,210814.71,11.3,17.1,7.5
+272,Bucaramanga,7.088,-73.0836,Energía,Mediana,En riesgo,1974,50,88,187305.17,14.6,-10.4,4.4
+273,Santiago,-33.4489,-70.6693,Salud,Pequeña,Estable,2006,18,13,39785.04,17.3,-2.6,8.3
+274,Rio de Janeiro,-22.9068,-43.1729,Manufactura,Mediana,Activa,2010,14,123,308315.06,9.5,9.5,7.1
+275,Pereira,4.8133,-75.6958,Finanzas,Pequeña,En crecimiento,2018,6,20,52539.09,2.2,23.6,7.4
+276,Medellín,6.2518,-75.5636,Turismo,Grande,Activa,1982,42,316,702445.12,3.2,5.2,6.1
+277,Bogotá,-4.711,-74.0721,Agro,Mediana,En crecimiento,2003,21,58,228889.78,4.9,21.6,9.4
+278,Caracas,10.4806,-66.9036,Finanzas,Pequeña,Estable,2014,10,13,57548.83,5.8,-1.2,5.2
+279,Bogotá,-4.711,-74.0721,Energía,Pequeña,Activa,1991,33,31,32251.28,10.9,6.1,6.5
+280,Cartagena,10.423,-75.5434,Finanzas,Pequeña,Activa,2022,2,28,28635.04,4.2,3.1,9.2
+281,Panamá,8.9936,-79.5193,Educación,Pequeña,En crecimiento,1992,32,10,16182.93,8.4,22.5,8.4
+282,Rio de Janeiro,-22.9068,-43.1729,Telecomunicaciones,Pequeña,Inactiva,2020,4,20,35888.84,15.1,-28.6,3.2
+283,Barranquilla,11.0719,-74.7819,Salud,Mediana,En riesgo,1972,52,40,168842.76,11.5,-19.0,4.5
+284,Cali,3.4516,-76.6319,Tecnología,Mediana,Estable,2011,13,66,183426.87,22.6,5.6,5.8
+285,Guayaquil,-2.19,-79.897,Energía,Pequeña,Activa,2003,21,10,43646.05,12.9,11.8,7.1
+286,Guayaquil,-2.19,-79.897,Tecnología,Pequeña,En riesgo,2001,23,23,37044.08,15.1,-5.3,4.1
+287,Lima,-12.0464,-77.0428,Agro,Pequeña,En riesgo,2014,10,8,27907.74,5.2,-18.1,4.7
+288,Buenos Aires,-34.6037,-58.3816,Finanzas,Grande,Estable,2020,4,474,520765.38,7.7,-0.9,5.1
+289,Bucaramanga,7.088,-73.0836,Retail,Pequeña,Inactiva,2018,6,15,58158.88,0.1,-23.6,3.7
+290,Cali,3.4516,-76.6319,Energía,Mediana,En crecimiento,1990,34,74,437114.9,10.1,19.0,9.0
+291,Manizales,5.0689,-75.5175,Manufactura,Grande,Inactiva,2015,9,780,1230096.5,5.8,-21.6,3.0
+292,Cartagena,10.423,-75.5434,Telecomunicaciones,Mediana,Inactiva,2013,11,161,262668.98,10.1,-22.0,4.0
+293,Guayaquil,-2.19,-79.897,Finanzas,Grande,Activa,1990,34,377,1502109.37,5.3,10.9,7.6
+294,Buenos Aires,-34.6037,-58.3816,Telecomunicaciones,Pequeña,En crecimiento,2013,11,13,110102.84,10.2,30.8,7.1
+295,Cali,3.4516,-76.6319,Tecnología,Multinacional,Inactiva,1980,44,1368,3653142.09,22.1,-21.1,1.9
+296,Bogotá,-4.711,-74.0721,Finanzas,Pequeña,Activa,2008,16,14,40641.03,3.1,8.9,6.1
+297,Montevideo,-34.9033,-56.188,Salud,Pequeña,En crecimiento,1973,51,32,21137.24,17.4,20.8,8.2
+298,Bogotá,-4.711,-74.0721,Turismo,Mediana,Inactiva,2020,4,75,359581.81,0.1,-25.7,3.1
+299,Cali,3.4516,-76.6319,Salud,Multinacional,Estable,1970,54,3346,7444402.03,14.5,-4.4,8.4
+300,São Paulo,-23.5505,-46.6333,Agro,Grande,Activa,1997,27,228,1660238.33,4.0,-2.6,8.1
+301,Popayán,2.4419,-76.6109,Agro,Pequeña,Estable,1993,31,12,53978.42,3.4,4.8,7.8
+302,Cali,3.4516,-76.6319,Telecomunicaciones,Pequeña,Activa,2004,20,18,82053.96,10.8,15.3,7.5
+303,Pereira,4.8133,-75.6958,Salud,Multinacional,En crecimiento,1982,42,2608,10469937.17,13.0,20.0,6.6
+304,Buenos Aires,-34.6037,-58.3816,Manufactura,Pequeña,Activa,2016,8,20,75737.77,8.3,17.5,7.6
+305,São Paulo,-23.5505,-46.6333,Finanzas,Grande,Estable,2003,21,314,880467.52,8.0,0.9,7.0
+306,Caracas,10.4806,-66.9036,Educación,Grande,En crecimiento,1980,44,198,2723861.49,7.8,10.3,6.4
+307,Medellín,6.2518,-75.5636,Educación,Mediana,Estable,2005,19,125,209055.78,4.7,7.5,8.4
+308,Popayán,2.4419,-76.6109,Finanzas,Pequeña,Estable,2020,4,10,35858.77,10.4,-0.9,8.2
+309,Medellín,6.2518,-75.5636,Energía,Mediana,En crecimiento,1986,38,97,343505.72,7.4,28.1,6.4
+310,Guayaquil,-2.19,-79.897,Turismo,Pequeña,Estable,2004,20,17,58147.46,0.1,-5.7,6.1
+311,Pereira,4.8133,-75.6958,Finanzas,Grande,Activa,1987,37,205,877688.71,0.1,10.5,6.5
+312,Bogotá,-4.711,-74.0721,Tecnología,Mediana,Estable,2009,15,121,275102.25,18.3,-2.8,7.6
+313,Manizales,5.0689,-75.5175,Tecnología,Grande,Activa,1991,33,318,3156875.48,17.3,9.2,7.8
+314,Quito,-0.1807,-78.4678,Tecnología,Pequeña,Inactiva,1993,31,15,23995.22,21.1,-20.4,3.3
+315,Panamá,8.9936,-79.5193,Telecomunicaciones,Multinacional,Activa,1988,36,2166,16811298.03,13.8,11.2,7.5
+316,Santa Marta,11.2469,-74.0515,Tecnología,Mediana,En crecimiento,2006,18,153,265850.27,18.9,22.4,6.3
+317,Popayán,2.4419,-76.6109,Tecnología,Pequeña,Estable,2008,16,25,15535.78,17.2,-6.3,7.4
+318,Cali,3.4516,-76.6319,Educación,Pequeña,En crecimiento,1990,34,7,25245.73,11.3,26.4,7.7
+319,São Paulo,-23.5505,-46.6333,Agro,Grande,Activa,1977,47,987,926562.61,9.6,14.2,6.4
+320,Santiago,-33.4489,-70.6693,Telecomunicaciones,Mediana,Estable,1997,27,60,219602.22,15.0,-4.3,5.1
+321,Santa Marta,11.2469,-74.0515,Agro,Grande,Estable,1974,50,927,1423485.55,2.6,-3.4,6.9
+322,Barranquilla,11.0719,-74.7819,Manufactura,Pequeña,Estable,1986,38,13,12939.48,8.3,8.4,7.3
+323,Santiago,-33.4489,-70.6693,Turismo,Pequeña,En crecimiento,2006,18,13,54895.16,1.8,20.7,5.8
+324,Montevideo,-34.9033,-56.188,Tecnología,Mediana,Estable,2005,19,72,177015.49,14.7,-3.2,6.9
+325,Bogotá,-4.711,-74.0721,Telecomunicaciones,Pequeña,En crecimiento,2023,1,12,100211.63,9.3,23.6,7.9
+326,Pereira,4.8133,-75.6958,Energía,Mediana,Estable,1988,36,219,262091.61,8.9,-1.8,6.2
+327,Buenos Aires,-34.6037,-58.3816,Manufactura,Multinacional,Estable,1996,28,2424,12818181.95,6.3,3.0,7.4
+328,Panamá,8.9936,-79.5193,Energía,Multinacional,En crecimiento,2022,2,2215,13937959.7,16.2,19.5,7.6
+329,Buenos Aires,-34.6037,-58.3816,Energía,Multinacional,Activa,2003,21,2578,13750540.93,7.4,6.0,7.5
+330,Lima,-12.0464,-77.0428,Manufactura,Grande,Activa,1980,44,271,1130049.84,10.0,14.7,7.8
+331,Rio de Janeiro,-22.9068,-43.1729,Telecomunicaciones,Pequeña,Activa,2023,1,28,37428.14,11.0,-6.8,7.8
+332,Caracas,10.4806,-66.9036,Retail,Mediana,Activa,2014,10,44,268082.78,0.1,11.3,8.4
+333,Medellín,6.2518,-75.5636,Manufactura,Mediana,En crecimiento,2016,8,62,412361.82,4.5,27.7,8.2
+334,Medellín,6.2518,-75.5636,Manufactura,Grande,Estable,1981,43,581,1161970.74,9.5,-1.7,6.3
+335,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Pequeña,Activa,2023,1,15,47105.59,19.0,13.6,6.4
+336,Guayaquil,-2.19,-79.897,Manufactura,Mediana,Inactiva,1990,34,99,343978.58,7.2,-30.8,1.9
+337,Montevideo,-34.9033,-56.188,Tecnología,Pequeña,Activa,2023,1,27,31803.52,22.0,4.0,7.4
+338,Popayán,2.4419,-76.6109,Turismo,Mediana,En riesgo,1980,44,119,184883.95,0.1,-16.7,6.1
+339,Bucaramanga,7.088,-73.0836,Telecomunicaciones,Grande,Estable,2008,16,422,1385877.02,8.8,7.7,6.5
+340,Caracas,10.4806,-66.9036,Turismo,Grande,En crecimiento,1997,27,922,1480758.59,0.1,11.5,8.3
+341,Quito,-0.1807,-78.4678,Finanzas,Pequeña,Activa,1974,50,11,62113.65,7.6,17.8,6.3
+342,Cartagena,10.423,-75.5434,Educación,Multinacional,Estable,1986,38,2401,11194077.34,9.7,0.2,7.1
+343,Bogotá,-4.711,-74.0721,Tecnología,Mediana,En crecimiento,1989,35,79,173166.07,20.2,25.7,9.3
+344,Pereira,4.8133,-75.6958,Energía,Pequeña,Inactiva,2010,14,14,33314.09,6.5,-21.8,4.0
+345,Lima,-12.0464,-77.0428,Salud,Pequeña,En crecimiento,2015,9,9,30773.28,10.2,22.9,5.9
+346,Lima,-12.0464,-77.0428,Tecnología,Pequeña,Inactiva,1981,43,7,101316.24,14.0,-28.6,3.9
+347,Cartagena,10.423,-75.5434,Finanzas,Pequeña,Activa,1975,49,17,47081.86,2.2,15.5,7.9
+348,Santa Marta,11.2469,-74.0515,Agro,Multinacional,Estable,1986,38,1940,8064778.04,8.7,-1.1,7.1
+349,Barranquilla,11.0719,-74.7819,Energía,Mediana,Estable,2020,4,171,308792.54,13.0,-2.4,7.7
+350,Bucaramanga,7.088,-73.0836,Tecnología,Grande,Estable,1988,36,388,1048782.64,16.6,7.3,5.9
+351,Santiago,-33.4489,-70.6693,Finanzas,Pequeña,Activa,1995,29,13,109306.71,5.9,8.9,7.3
+352,Montevideo,-34.9033,-56.188,Turismo,Pequeña,Estable,2017,7,23,61407.77,1.0,10.1,8.2
+353,Caracas,10.4806,-66.9036,Manufactura,Mediana,En crecimiento,2013,11,93,305997.75,7.1,21.6,9.0
+354,Cali,3.4516,-76.6319,Manufactura,Pequeña,Estable,2013,11,13,28771.77,2.6,-1.9,7.6
+355,Pereira,4.8133,-75.6958,Educación,Mediana,En crecimiento,2021,3,61,167807.29,10.3,23.6,6.7
+356,Montevideo,-34.9033,-56.188,Turismo,Multinacional,En riesgo,2001,23,10798,6855064.87,0.5,-14.7,3.3
+357,Panamá,8.9936,-79.5193,Finanzas,Mediana,Activa,1975,49,92,211407.29,7.4,4.3,7.3
+358,Santiago,-33.4489,-70.6693,Retail,Mediana,En riesgo,2005,19,123,175925.45,0.7,-7.0,4.7
+359,São Paulo,-23.5505,-46.6333,Turismo,Pequeña,En riesgo,2007,17,9,41535.31,0.6,-1.0,4.4
+360,Popayán,2.4419,-76.6109,Finanzas,Pequeña,En riesgo,1980,44,11,44871.78,9.8,-13.5,3.5
+361,Rio de Janeiro,-22.9068,-43.1729,Finanzas,Pequeña,En crecimiento,2002,22,34,53673.3,5.5,16.2,8.3
+362,Guayaquil,-2.19,-79.897,Turismo,Mediana,En crecimiento,1993,31,139,233182.81,2.0,21.1,7.9
+363,Rio de Janeiro,-22.9068,-43.1729,Agro,Pequeña,Inactiva,1992,32,18,30211.5,6.3,-21.9,3.5
+364,Cartagena,10.423,-75.5434,Turismo,Pequeña,Activa,1984,40,12,30739.93,0.1,9.5,7.9
+365,Manizales,5.0689,-75.5175,Manufactura,Mediana,En crecimiento,1996,28,72,550192.84,9.3,29.2,7.5
+366,Lima,-12.0464,-77.0428,Energía,Pequeña,Estable,1980,44,11,26739.56,9.6,6.0,6.3
+367,Bogotá,-4.711,-74.0721,Turismo,Pequeña,Estable,2020,4,9,59956.19,4.8,-4.6,8.2
+368,Bogotá,-4.711,-74.0721,Finanzas,Pequeña,Activa,2019,5,21,64831.8,0.4,5.0,6.3
+369,Caracas,10.4806,-66.9036,Retail,Multinacional,Estable,1986,38,3101,7529313.01,0.9,-6.3,6.3
+370,Medellín,6.2518,-75.5636,Finanzas,Mediana,En riesgo,2020,4,107,726106.72,5.0,-5.1,6.0
+371,Panamá,8.9936,-79.5193,Finanzas,Mediana,Activa,2022,2,69,385538.85,8.1,-4.0,6.5
+372,Pereira,4.8133,-75.6958,Telecomunicaciones,Pequeña,Inactiva,1983,41,16,125646.77,14.0,-32.7,3.1
+373,Santiago,-33.4489,-70.6693,Tecnología,Multinacional,Activa,1996,28,2103,5777144.57,16.8,4.9,6.7
+374,Bogotá,-4.711,-74.0721,Salud,Mediana,En crecimiento,1987,37,59,218505.19,16.0,25.4,5.7
+375,Panamá,8.9936,-79.5193,Finanzas,Pequeña,Activa,1997,27,29,65091.34,8.8,4.9,7.1
+376,Santa Marta,11.2469,-74.0515,Telecomunicaciones,Grande,Activa,2020,4,419,1316178.27,11.4,5.8,6.0
+377,Cartagena,10.423,-75.5434,Tecnología,Pequeña,Inactiva,2016,8,18,116146.89,17.1,-27.1,3.5
+378,Cali,3.4516,-76.6319,Tecnología,Mediana,En crecimiento,2016,8,111,355893.9,12.3,23.0,9.1
+379,Lima,-12.0464,-77.0428,Tecnología,Mediana,En crecimiento,1973,51,84,177948.71,17.2,14.7,5.1
+380,Panamá,8.9936,-79.5193,Tecnología,Pequeña,Activa,1976,48,16,20980.95,12.8,2.3,6.7
+381,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Multinacional,Estable,2014,10,1618,7693087.86,17.7,12.1,7.4
+382,Cartagena,10.423,-75.5434,Finanzas,Grande,Estable,2004,20,279,1434625.08,8.0,4.4,4.3
+383,Buenos Aires,-34.6037,-58.3816,Turismo,Mediana,En crecimiento,2017,7,54,350957.61,0.1,26.6,9.4
+384,Cartagena,10.423,-75.5434,Educación,Pequeña,En crecimiento,1978,46,19,91594.23,11.7,22.3,8.3
+385,Caracas,10.4806,-66.9036,Finanzas,Pequeña,En riesgo,1977,47,15,85762.31,4.0,-12.8,5.8
+386,Guayaquil,-2.19,-79.897,Tecnología,Pequeña,En crecimiento,2021,3,10,37433.74,17.9,24.7,7.1
+387,Buenos Aires,-34.6037,-58.3816,Educación,Grande,En crecimiento,2014,10,504,785492.32,6.5,26.4,7.3
+388,Montevideo,-34.9033,-56.188,Turismo,Pequeña,Activa,1986,38,18,26976.4,0.1,13.1,7.0
+389,Cartagena,10.423,-75.5434,Energía,Mediana,En riesgo,1986,38,60,207551.94,7.7,-12.8,7.1
+390,Lima,-12.0464,-77.0428,Tecnología,Grande,En crecimiento,2018,6,395,1248695.41,24.3,27.7,9.4
+391,Panamá,8.9936,-79.5193,Finanzas,Pequeña,En crecimiento,2002,22,18,58238.93,1.7,7.2,8.0
+392,Panamá,8.9936,-79.5193,Educación,Mediana,Activa,2001,23,56,200998.75,3.2,13.4,7.5
+393,Santa Marta,11.2469,-74.0515,Retail,Pequeña,Inactiva,1977,47,18,57524.96,2.4,-27.6,4.0
+394,Barranquilla,11.0719,-74.7819,Energía,Multinacional,Activa,1988,36,2819,9587513.88,9.7,11.3,10.0
+395,Bogotá,-4.711,-74.0721,Turismo,Mediana,En riesgo,2007,17,53,322290.86,2.0,-15.9,5.0
+396,Cartagena,10.423,-75.5434,Educación,Pequeña,En crecimiento,1972,52,16,28437.58,8.0,14.0,7.9
+397,Popayán,2.4419,-76.6109,Retail,Pequeña,Activa,1974,50,17,63176.75,3.9,10.0,6.8
+398,Cartagena,10.423,-75.5434,Tecnología,Mediana,En riesgo,1982,42,62,849304.08,16.2,-21.0,4.8
+399,Barranquilla,11.0719,-74.7819,Tecnología,Grande,En crecimiento,2016,8,321,1696239.13,18.6,19.6,7.1
+400,Medellín,6.2518,-75.5636,Finanzas,Grande,En riesgo,2015,9,267,342640.86,8.1,-16.9,5.1
+401,Montevideo,-34.9033,-56.188,Tecnología,Mediana,Inactiva,2000,24,66,557923.73,15.0,-26.1,1.5
+402,Popayán,2.4419,-76.6109,Telecomunicaciones,Pequeña,En riesgo,1985,39,14,35186.03,5.0,-7.2,4.2
+403,Rio de Janeiro,-22.9068,-43.1729,Agro,Pequeña,Activa,2019,5,12,155225.57,6.0,5.1,8.1
+404,Bogotá,-4.711,-74.0721,Salud,Pequeña,En riesgo,2001,23,8,52995.38,22.5,-10.1,4.9
+405,Cartagena,10.423,-75.5434,Turismo,Mediana,En crecimiento,1991,33,60,129209.11,3.0,26.4,7.2
+406,Santiago,-33.4489,-70.6693,Telecomunicaciones,Grande,En riesgo,1998,26,338,534254.14,12.6,-15.6,4.2
+407,Barranquilla,11.0719,-74.7819,Retail,Mediana,Estable,1991,33,110,647845.9,1.1,-1.6,8.1
+408,Panamá,8.9936,-79.5193,Manufactura,Pequeña,En riesgo,2012,12,19,86918.9,10.8,-3.8,3.0
+409,Panamá,8.9936,-79.5193,Retail,Mediana,En crecimiento,1972,52,111,913051.16,1.8,21.5,6.4
+410,Medellín,6.2518,-75.5636,Telecomunicaciones,Grande,En crecimiento,2023,1,297,1508215.78,11.4,25.1,6.7
+411,Guayaquil,-2.19,-79.897,Energía,Grande,Activa,1979,45,423,1458196.16,12.7,11.0,7.2
+412,Montevideo,-34.9033,-56.188,Tecnología,Grande,En riesgo,2011,13,151,1238753.6,16.5,-19.2,2.9
+413,Lima,-12.0464,-77.0428,Finanzas,Pequeña,En crecimiento,1990,34,17,35976.93,1.1,17.4,8.9
+414,São Paulo,-23.5505,-46.6333,Agro,Pequeña,En crecimiento,1985,39,19,41091.79,6.6,24.3,6.7
+415,Cali,3.4516,-76.6319,Salud,Grande,En riesgo,1981,43,347,1672294.73,13.2,-24.4,4.8
+416,Bogotá,-4.711,-74.0721,Agro,Mediana,Estable,1971,53,90,196729.97,1.1,0.7,6.2
+417,Bogotá,-4.711,-74.0721,Tecnología,Pequeña,Activa,2010,14,8,21701.43,24.3,2.8,7.1
+418,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Grande,Estable,1993,31,290,1624830.37,17.5,8.7,5.0
+419,Quito,-0.1807,-78.4678,Finanzas,Grande,En crecimiento,2004,20,543,972745.6,6.5,24.1,9.0
+420,Cartagena,10.423,-75.5434,Tecnología,Mediana,En crecimiento,1999,25,98,59386.3,18.1,29.1,6.6
+421,Lima,-12.0464,-77.0428,Telecomunicaciones,Mediana,Activa,1999,25,67,395466.54,9.3,7.8,5.9
+422,Cali,3.4516,-76.6319,Agro,Pequeña,Activa,2016,8,20,28731.48,6.1,7.3,10.0
+423,Bogotá,-4.711,-74.0721,Agro,Mediana,Activa,2004,20,84,417663.97,4.9,6.2,7.9
+424,Bogotá,-4.711,-74.0721,Manufactura,Mediana,Estable,1988,36,65,412694.05,4.0,-1.0,8.1
+425,Pereira,4.8133,-75.6958,Salud,Grande,Activa,2019,5,371,1728510.6,16.3,24.1,7.8
+426,Popayán,2.4419,-76.6109,Turismo,Grande,En crecimiento,1977,47,333,5227190.94,1.5,26.8,7.3
+427,Quito,-0.1807,-78.4678,Turismo,Grande,Inactiva,1995,29,249,1399953.73,0.1,-31.4,1.6
+428,Lima,-12.0464,-77.0428,Turismo,Pequeña,Activa,2018,6,24,43345.51,0.1,23.8,6.8
+429,Santiago,-33.4489,-70.6693,Salud,Grande,En crecimiento,2009,15,318,2111294.61,15.8,19.6,6.6
+430,Lima,-12.0464,-77.0428,Turismo,Grande,En riesgo,1976,48,286,1458985.64,1.9,-10.1,3.4
+431,Buenos Aires,-34.6037,-58.3816,Finanzas,Mediana,Inactiva,1999,25,43,535943.77,9.5,-19.4,1.3
+432,Medellín,6.2518,-75.5636,Telecomunicaciones,Grande,Estable,1976,48,139,795377.97,11.9,-7.2,7.0
+433,Rio de Janeiro,-22.9068,-43.1729,Retail,Grande,Estable,1972,52,529,802019.69,0.1,-3.0,8.8
+434,São Paulo,-23.5505,-46.6333,Finanzas,Mediana,En riesgo,1970,54,109,439961.5,5.5,-2.1,5.2
+435,Cali,3.4516,-76.6319,Manufactura,Mediana,En crecimiento,2005,19,128,167565.95,2.1,20.7,7.7
+436,Guayaquil,-2.19,-79.897,Energía,Pequeña,En riesgo,1994,30,14,67800.69,9.7,-6.0,4.5
+437,Pereira,4.8133,-75.6958,Tecnología,Pequeña,Activa,2006,18,13,60161.01,19.0,5.3,3.5
+438,Popayán,2.4419,-76.6109,Retail,Mediana,Inactiva,1970,54,65,211989.84,2.6,-25.6,2.7
+439,Medellín,6.2518,-75.5636,Retail,Grande,En crecimiento,1984,40,338,1802275.78,5.9,32.7,6.1
+440,Rio de Janeiro,-22.9068,-43.1729,Finanzas,Pequeña,Estable,2006,18,23,26970.04,12.8,4.6,7.1
+441,Manizales,5.0689,-75.5175,Finanzas,Pequeña,Activa,1982,42,14,30328.05,7.0,5.9,6.9
+442,Santa Marta,11.2469,-74.0515,Educación,Mediana,Estable,2009,15,93,266450.53,11.5,-2.1,5.9
+443,Barranquilla,11.0719,-74.7819,Finanzas,Pequeña,Activa,1977,47,12,52012.65,12.6,4.4,7.3
+444,São Paulo,-23.5505,-46.6333,Tecnología,Pequeña,En riesgo,1974,50,25,42957.18,15.0,-4.6,4.6
+445,Santiago,-33.4489,-70.6693,Retail,Pequeña,En riesgo,1978,46,7,62089.75,2.4,-7.4,6.3
+446,Quito,-0.1807,-78.4678,Tecnología,Pequeña,Activa,1970,54,9,60718.97,16.6,1.1,8.0
+447,Barranquilla,11.0719,-74.7819,Educación,Pequeña,En riesgo,2005,19,17,107415.71,10.5,-11.5,4.8
+448,Barranquilla,11.0719,-74.7819,Telecomunicaciones,Pequeña,En riesgo,2004,20,30,47673.72,12.8,-12.4,3.4
+449,Popayán,2.4419,-76.6109,Energía,Mediana,Estable,1971,53,73,545151.75,7.5,3.9,5.6
+450,Cartagena,10.423,-75.5434,Educación,Grande,En crecimiento,2009,15,285,2376973.08,8.0,18.4,8.5
+451,Manizales,5.0689,-75.5175,Salud,Mediana,Activa,1992,32,119,944609.03,18.1,14.6,7.0
+452,Cali,3.4516,-76.6319,Tecnología,Grande,Activa,1978,46,455,1407529.58,14.1,8.0,7.5
+453,Guayaquil,-2.19,-79.897,Manufactura,Pequeña,En crecimiento,2003,21,25,40521.94,3.6,24.2,9.0
+454,Cali,3.4516,-76.6319,Tecnología,Pequeña,Inactiva,2015,9,8,93772.36,15.2,-29.7,1.4
+455,Panamá,8.9936,-79.5193,Turismo,Grande,Activa,1983,41,649,1818808.1,4.0,3.6,8.9
+456,Barranquilla,11.0719,-74.7819,Telecomunicaciones,Pequeña,En riesgo,1973,51,8,94902.74,15.7,3.9,5.7
+457,São Paulo,-23.5505,-46.6333,Tecnología,Mediana,En crecimiento,1999,25,71,429311.12,12.0,32.8,5.3
+458,Guayaquil,-2.19,-79.897,Retail,Mediana,En crecimiento,2000,24,94,104626.98,2.3,21.6,10.0
+459,Santa Marta,11.2469,-74.0515,Telecomunicaciones,Mediana,En riesgo,2007,17,86,362108.31,9.2,-2.8,4.9
+460,Cartagena,10.423,-75.5434,Tecnología,Pequeña,En riesgo,1980,44,22,58418.4,21.0,-4.7,3.9
+461,Lima,-12.0464,-77.0428,Retail,Pequeña,En crecimiento,2004,20,7,53440.9,1.3,18.2,8.4
+462,Guayaquil,-2.19,-79.897,Turismo,Mediana,En crecimiento,1977,47,84,280805.13,3.4,17.7,6.6
+463,Santiago,-33.4489,-70.6693,Retail,Pequeña,En crecimiento,1972,52,24,22554.88,2.0,26.0,8.5
+464,Cali,3.4516,-76.6319,Turismo,Mediana,Activa,1983,41,81,464457.91,6.4,9.6,6.2
+465,Manizales,5.0689,-75.5175,Manufactura,Grande,Activa,1982,42,253,1808231.55,12.1,5.6,9.6
+466,Guayaquil,-2.19,-79.897,Turismo,Multinacional,En crecimiento,2014,10,3740,13879596.59,0.1,26.3,7.9
+467,Guayaquil,-2.19,-79.897,Retail,Pequeña,En crecimiento,2001,23,11,23165.06,0.1,13.3,8.6
+468,Montevideo,-34.9033,-56.188,Energía,Grande,Estable,2003,21,287,1932921.04,11.0,2.7,6.0
+469,Panamá,8.9936,-79.5193,Turismo,Mediana,En crecimiento,2014,10,54,266787.59,0.6,14.6,8.8
+470,Santiago,-33.4489,-70.6693,Retail,Pequeña,En crecimiento,1988,36,13,53727.07,4.8,14.8,7.8
+471,Rio de Janeiro,-22.9068,-43.1729,Salud,Pequeña,En crecimiento,2007,17,16,44721.0,18.3,17.8,6.1
+472,Guayaquil,-2.19,-79.897,Salud,Grande,Estable,1985,39,240,1968494.57,13.4,4.2,6.6
+473,Barranquilla,11.0719,-74.7819,Salud,Pequeña,En riesgo,1971,53,9,46089.56,12.7,-16.1,6.8
+474,Lima,-12.0464,-77.0428,Educación,Pequeña,En crecimiento,2009,15,11,29549.46,7.2,14.7,8.8
+475,Manizales,5.0689,-75.5175,Salud,Pequeña,En riesgo,1986,38,10,52208.0,15.3,-9.1,4.0
+476,Rio de Janeiro,-22.9068,-43.1729,Telecomunicaciones,Grande,Activa,2003,21,405,1347670.9,12.9,17.0,5.0
+477,Lima,-12.0464,-77.0428,Tecnología,Grande,En crecimiento,2011,13,462,1438740.82,11.2,25.8,6.8
+478,Manizales,5.0689,-75.5175,Manufactura,Grande,En crecimiento,1985,39,437,304696.03,3.1,32.8,6.1
+479,Santa Marta,11.2469,-74.0515,Salud,Pequeña,En crecimiento,2007,17,16,70340.03,13.8,30.5,5.6
+480,Buenos Aires,-34.6037,-58.3816,Retail,Pequeña,Estable,1971,53,29,42721.03,0.1,-0.9,7.8
+481,Montevideo,-34.9033,-56.188,Telecomunicaciones,Mediana,En riesgo,1971,53,94,152888.01,3.4,-8.2,4.6
+482,Rio de Janeiro,-22.9068,-43.1729,Finanzas,Mediana,Activa,1995,29,109,475831.71,0.1,7.5,9.4
+483,Caracas,10.4806,-66.9036,Retail,Pequeña,Estable,1982,42,12,68731.38,0.1,8.4,5.7
+484,Panamá,8.9936,-79.5193,Tecnología,Mediana,Estable,2016,8,116,254709.17,17.7,1.4,6.9
+485,Cartagena,10.423,-75.5434,Agro,Multinacional,Activa,2000,24,2077,4496758.72,2.7,3.3,5.5
+486,Cali,3.4516,-76.6319,Salud,Grande,Activa,2003,21,471,1639646.18,13.1,16.2,6.5
+487,Lima,-12.0464,-77.0428,Retail,Grande,En crecimiento,2008,16,231,1595230.36,4.4,23.9,7.5
+488,Montevideo,-34.9033,-56.188,Tecnología,Multinacional,Activa,1972,52,2671,12700084.96,20.4,4.0,6.8
+489,Barranquilla,11.0719,-74.7819,Turismo,Pequeña,Activa,1977,47,10,40051.06,3.4,5.0,7.3
+490,Panamá,8.9936,-79.5193,Energía,Mediana,Activa,1992,32,116,545249.53,10.4,4.0,8.4
+491,Santa Marta,11.2469,-74.0515,Salud,Multinacional,En crecimiento,1983,41,3548,6106263.45,12.4,16.0,8.8
+492,Santiago,-33.4489,-70.6693,Salud,Pequeña,Estable,1996,28,12,25510.93,12.8,-0.9,6.0
+493,Popayán,2.4419,-76.6109,Tecnología,Grande,Estable,2023,1,908,851567.7,12.9,4.2,6.9
+494,Santa Marta,11.2469,-74.0515,Educación,Mediana,Inactiva,1998,26,71,290782.83,7.2,-24.6,4.2
+495,Buenos Aires,-34.6037,-58.3816,Turismo,Mediana,En crecimiento,2008,16,41,290332.04,5.4,19.4,9.0
+496,Cartagena,10.423,-75.5434,Tecnología,Mediana,En riesgo,2022,2,58,353439.75,22.1,-3.0,3.7
+497,Cali,3.4516,-76.6319,Finanzas,Multinacional,En riesgo,2008,16,1646,7646549.7,4.3,-24.1,5.3
+498,Quito,-0.1807,-78.4678,Tecnología,Grande,Estable,1970,54,465,2445193.76,19.5,3.8,7.3
+499,Quito,-0.1807,-78.4678,Agro,Pequeña,En crecimiento,1986,38,9,43880.76,0.1,21.1,6.5
+500,São Paulo,-23.5505,-46.6333,Tecnología,Grande,En riesgo,2010,14,322,552847.53,16.7,-17.8,5.5
+501,Caracas,10.4806,-66.9036,Educación,Pequeña,Activa,1999,25,17,47062.41,6.6,10.2,7.4
+502,Lima,-12.0464,-77.0428,Tecnología,Pequeña,En crecimiento,2022,2,15,18331.73,22.5,20.7,5.7
+503,Manizales,5.0689,-75.5175,Finanzas,Mediana,En crecimiento,1982,42,79,343599.92,6.2,29.5,7.4
+504,Popayán,2.4419,-76.6109,Agro,Mediana,Estable,1990,34,84,508964.86,5.5,7.2,6.9
+505,Lima,-12.0464,-77.0428,Finanzas,Mediana,Activa,1988,36,68,183216.81,6.3,19.4,6.5
+506,Guayaquil,-2.19,-79.897,Salud,Multinacional,Inactiva,2022,2,1316,16260191.56,15.1,-27.9,4.7
+507,Bucaramanga,7.088,-73.0836,Energía,Grande,Estable,1988,36,341,2286176.41,14.6,10.4,8.4
+508,Santa Marta,11.2469,-74.0515,Agro,Mediana,En crecimiento,1994,30,96,548409.65,0.1,15.0,7.3
+509,Buenos Aires,-34.6037,-58.3816,Salud,Pequeña,Inactiva,1991,33,14,54970.95,15.4,-25.7,2.6
+510,Santiago,-33.4489,-70.6693,Energía,Multinacional,En crecimiento,2000,24,2923,4869829.63,13.4,19.2,7.6
+511,Pereira,4.8133,-75.6958,Telecomunicaciones,Multinacional,Inactiva,1986,38,1976,11820664.82,6.3,-21.4,3.0
+512,Popayán,2.4419,-76.6109,Salud,Grande,En crecimiento,1992,32,595,1097642.45,17.5,25.5,7.1
+513,Manizales,5.0689,-75.5175,Energía,Pequeña,Activa,2001,23,5,53035.7,7.7,2.6,2.7
+514,São Paulo,-23.5505,-46.6333,Energía,Pequeña,En riesgo,1979,45,15,45894.6,10.3,-8.1,6.6
+515,Medellín,6.2518,-75.5636,Finanzas,Pequeña,Estable,1979,45,25,87739.39,2.7,-0.3,6.9
+516,Cartagena,10.423,-75.5434,Tecnología,Pequeña,En riesgo,2005,19,27,72037.48,20.9,-16.9,4.3
+517,Cartagena,10.423,-75.5434,Tecnología,Pequeña,Inactiva,1977,47,13,48025.88,17.1,-25.1,3.6
+518,Bucaramanga,7.088,-73.0836,Retail,Multinacional,En riesgo,2023,1,1470,3015114.92,4.5,-20.9,4.4
+519,Rio de Janeiro,-22.9068,-43.1729,Telecomunicaciones,Mediana,Estable,2021,3,138,218365.17,13.3,7.6,6.4
+520,Pereira,4.8133,-75.6958,Manufactura,Pequeña,En riesgo,1989,35,14,71103.33,3.6,-12.3,3.3
+521,Panamá,8.9936,-79.5193,Finanzas,Pequeña,Estable,2001,23,14,57516.86,6.5,1.8,4.7
+522,Santiago,-33.4489,-70.6693,Manufactura,Pequeña,En crecimiento,2019,5,10,23580.31,4.0,21.5,6.2
+523,Bogotá,-4.711,-74.0721,Turismo,Pequeña,En riesgo,1983,41,9,20261.63,3.2,-2.1,3.2
+524,Montevideo,-34.9033,-56.188,Finanzas,Pequeña,Activa,2019,5,18,55134.61,4.1,17.1,8.0
+525,Guayaquil,-2.19,-79.897,Tecnología,Pequeña,Estable,1997,27,19,29473.58,20.7,10.1,7.8
+526,Santa Marta,11.2469,-74.0515,Agro,Grande,En riesgo,2015,9,433,927805.53,5.6,-12.5,3.4
+527,Santiago,-33.4489,-70.6693,Finanzas,Multinacional,Estable,2021,3,1841,11198114.39,4.9,-4.7,3.7
+528,Barranquilla,11.0719,-74.7819,Agro,Pequeña,Estable,2022,2,9,91207.98,1.9,1.9,6.9
+529,Barranquilla,11.0719,-74.7819,Salud,Mediana,En riesgo,1993,31,45,206114.42,11.2,-10.1,4.0
+530,Bucaramanga,7.088,-73.0836,Tecnología,Grande,En crecimiento,1984,40,319,1466802.64,18.4,26.9,7.3
+531,Rio de Janeiro,-22.9068,-43.1729,Salud,Pequeña,En riesgo,1991,33,10,48177.86,13.1,-10.1,5.6
+532,Lima,-12.0464,-77.0428,Finanzas,Pequeña,Activa,1999,25,7,46058.9,0.1,1.8,7.4
+533,Santa Marta,11.2469,-74.0515,Telecomunicaciones,Grande,Activa,1973,51,519,1530760.0,8.0,4.8,6.0
+534,Popayán,2.4419,-76.6109,Tecnología,Pequeña,Activa,1982,42,8,72986.35,22.9,4.2,5.8
+535,Rio de Janeiro,-22.9068,-43.1729,Retail,Mediana,En crecimiento,1992,32,118,214180.75,0.1,25.2,7.5
+536,Santa Marta,11.2469,-74.0515,Turismo,Mediana,En crecimiento,1977,47,93,139930.2,6.2,25.4,6.7
+537,Cali,3.4516,-76.6319,Agro,Pequeña,En riesgo,1987,37,16,116399.47,2.9,-7.8,4.4
+538,Santiago,-33.4489,-70.6693,Educación,Pequeña,En crecimiento,1981,43,29,86205.5,11.7,23.8,9.0
+539,Santiago,-33.4489,-70.6693,Agro,Grande,En crecimiento,2000,24,239,863851.99,7.5,9.6,6.1
+540,São Paulo,-23.5505,-46.6333,Energía,Pequeña,Activa,1983,41,21,53508.42,7.5,-2.4,7.3
+541,Montevideo,-34.9033,-56.188,Salud,Pequeña,En crecimiento,2003,21,13,82878.37,9.0,21.2,8.9
+542,Pereira,4.8133,-75.6958,Tecnología,Grande,Estable,1987,37,1118,2181444.08,12.3,2.6,6.8
+543,Manizales,5.0689,-75.5175,Retail,Mediana,Activa,2003,21,68,377960.29,0.1,15.5,8.1
+544,Santa Marta,11.2469,-74.0515,Telecomunicaciones,Pequeña,Activa,1980,44,12,45920.4,17.7,8.5,6.9
+545,Bogotá,-4.711,-74.0721,Tecnología,Grande,Activa,2010,14,474,3557709.97,16.8,2.1,7.4
+546,Cali,3.4516,-76.6319,Energía,Pequeña,Activa,1981,43,13,55837.88,10.4,12.0,7.7
+547,Santiago,-33.4489,-70.6693,Retail,Grande,En crecimiento,2018,6,295,1159496.06,5.9,21.9,7.1
+548,Guayaquil,-2.19,-79.897,Retail,Grande,Activa,1984,40,271,2318691.39,2.3,5.6,9.6
+549,Bogotá,-4.711,-74.0721,Telecomunicaciones,Mediana,Estable,2000,24,143,314760.43,12.2,-7.7,7.6
+550,Bucaramanga,7.088,-73.0836,Energía,Mediana,En riesgo,2018,6,50,357337.72,11.9,-11.5,6.1
+551,Bucaramanga,7.088,-73.0836,Finanzas,Multinacional,En crecimiento,1998,26,2733,8855299.93,5.9,23.4,9.1
+552,Lima,-12.0464,-77.0428,Educación,Pequeña,Inactiva,1995,29,22,64097.85,7.7,-31.0,3.6
+553,Santiago,-33.4489,-70.6693,Educación,Grande,En crecimiento,1987,37,622,919649.17,5.8,26.5,9.5
+554,Santiago,-33.4489,-70.6693,Energía,Pequeña,En crecimiento,2001,23,11,24202.84,10.2,25.9,8.0
+555,Caracas,10.4806,-66.9036,Energía,Pequeña,Inactiva,1991,33,13,102420.75,13.3,-24.7,2.3
+556,Panamá,8.9936,-79.5193,Salud,Pequeña,Activa,2007,17,12,56645.66,20.3,8.1,7.2
+557,Quito,-0.1807,-78.4678,Retail,Multinacional,Inactiva,1986,38,1352,11761896.31,2.9,-19.3,2.0
+558,Cartagena,10.423,-75.5434,Energía,Multinacional,Activa,1992,32,3099,3318662.8,12.3,10.2,4.7
+559,Barranquilla,11.0719,-74.7819,Turismo,Pequeña,En crecimiento,1993,31,15,85230.94,3.8,17.8,6.8
+560,Cali,3.4516,-76.6319,Finanzas,Pequeña,Activa,2019,5,26,38523.95,4.7,6.8,7.3
+561,Rio de Janeiro,-22.9068,-43.1729,Turismo,Grande,Estable,1977,47,287,1002358.8,4.5,5.3,8.2
+562,Montevideo,-34.9033,-56.188,Salud,Mediana,Estable,2010,14,123,290643.05,18.6,-10.2,5.9
+563,São Paulo,-23.5505,-46.6333,Salud,Pequeña,Estable,1975,49,23,30662.27,12.3,-3.6,8.1
+564,Caracas,10.4806,-66.9036,Tecnología,Mediana,En crecimiento,1974,50,81,299740.36,13.6,26.1,6.3
+565,Manizales,5.0689,-75.5175,Salud,Mediana,En crecimiento,2013,11,33,280230.73,13.4,29.3,6.7
+566,Guayaquil,-2.19,-79.897,Finanzas,Multinacional,Activa,1998,26,2036,13594149.2,5.6,14.1,8.9
+567,Buenos Aires,-34.6037,-58.3816,Turismo,Pequeña,En crecimiento,1997,27,30,106558.62,5.6,27.4,7.9
+568,Caracas,10.4806,-66.9036,Tecnología,Mediana,Inactiva,1980,44,90,629257.39,15.0,-24.2,3.0
+569,Bogotá,-4.711,-74.0721,Agro,Mediana,En crecimiento,1970,54,105,96691.45,0.1,15.8,8.1
+570,Cali,3.4516,-76.6319,Educación,Grande,En riesgo,2012,12,385,939771.7,6.5,-13.2,3.1
+571,Panamá,8.9936,-79.5193,Retail,Mediana,En riesgo,1988,36,73,96191.32,1.4,-24.0,4.1
+572,Quito,-0.1807,-78.4678,Telecomunicaciones,Mediana,En crecimiento,1978,46,37,165175.96,8.5,29.8,7.8
+573,Lima,-12.0464,-77.0428,Salud,Pequeña,Estable,1996,28,20,36135.07,12.7,-2.9,8.4
+574,Popayán,2.4419,-76.6109,Finanzas,Grande,Activa,2003,21,616,1841804.72,7.6,4.8,5.2
+575,Panamá,8.9936,-79.5193,Tecnología,Mediana,Activa,2013,11,54,231323.2,18.2,14.4,9.3
+576,Pereira,4.8133,-75.6958,Turismo,Pequeña,Activa,1973,51,13,39094.74,4.0,-1.7,7.1
+577,Bucaramanga,7.088,-73.0836,Manufactura,Mediana,Estable,2005,19,70,328542.04,4.9,-5.1,5.6
+578,Lima,-12.0464,-77.0428,Salud,Pequeña,En crecimiento,1987,37,17,21271.5,12.7,23.6,6.3
+579,Pereira,4.8133,-75.6958,Turismo,Pequeña,En crecimiento,1984,40,12,32875.46,1.9,25.1,8.1
+580,Barranquilla,11.0719,-74.7819,Salud,Grande,En crecimiento,2020,4,580,1166125.59,16.5,21.6,6.2
+581,Pereira,4.8133,-75.6958,Salud,Mediana,En crecimiento,1982,42,82,271125.41,10.5,21.8,7.1
+582,São Paulo,-23.5505,-46.6333,Manufactura,Grande,Estable,1988,36,144,1558840.23,11.0,9.6,6.6
+583,Cartagena,10.423,-75.5434,Educación,Pequeña,En riesgo,2018,6,17,105884.4,9.7,-8.2,5.9
+584,Manizales,5.0689,-75.5175,Turismo,Grande,Activa,1975,49,595,2362294.02,1.4,11.0,8.4
+585,Barranquilla,11.0719,-74.7819,Finanzas,Pequeña,Activa,2017,7,9,34034.27,7.4,12.7,6.4
+586,Guayaquil,-2.19,-79.897,Telecomunicaciones,Pequeña,Estable,1981,43,17,43875.61,15.7,0.2,6.6
+587,Manizales,5.0689,-75.5175,Tecnología,Multinacional,En crecimiento,2020,4,5198,6785052.11,17.0,35.0,5.9
+588,Bogotá,-4.711,-74.0721,Finanzas,Grande,Estable,2006,18,418,1159963.86,4.4,-11.8,4.5
+589,Montevideo,-34.9033,-56.188,Manufactura,Mediana,En crecimiento,1986,38,126,343793.23,10.5,30.7,6.3
+590,Santiago,-33.4489,-70.6693,Finanzas,Pequeña,En crecimiento,1992,32,12,19729.86,11.4,27.4,9.1
+591,Panamá,8.9936,-79.5193,Telecomunicaciones,Grande,Activa,1995,29,397,2329892.9,12.1,9.5,8.1
+592,Santiago,-33.4489,-70.6693,Energía,Mediana,Activa,1998,26,73,699634.37,6.5,8.5,7.7
+593,Buenos Aires,-34.6037,-58.3816,Manufactura,Grande,Estable,2002,22,342,1310678.36,4.6,1.1,5.2
+594,Cali,3.4516,-76.6319,Energía,Grande,En crecimiento,1996,28,377,1297945.85,13.1,28.6,6.9
+595,Bucaramanga,7.088,-73.0836,Telecomunicaciones,Pequeña,En riesgo,1994,30,7,54084.36,8.9,-12.2,3.5
+596,São Paulo,-23.5505,-46.6333,Retail,Pequeña,En riesgo,1979,45,13,83239.0,1.4,-16.4,4.3
+597,Rio de Janeiro,-22.9068,-43.1729,Energía,Mediana,En crecimiento,2016,8,136,255094.9,10.9,27.4,7.5
+598,Cartagena,10.423,-75.5434,Energía,Pequeña,En riesgo,1992,32,10,79757.88,7.2,-2.5,3.3
+599,Caracas,10.4806,-66.9036,Tecnología,Pequeña,En crecimiento,1990,34,9,63833.0,21.3,10.4,8.2
+600,Medellín,6.2518,-75.5636,Tecnología,Multinacional,En crecimiento,1990,34,2561,26055979.04,20.1,36.1,8.1
+601,Popayán,2.4419,-76.6109,Turismo,Mediana,Estable,2012,12,83,254538.34,9.0,-4.2,6.0
+602,São Paulo,-23.5505,-46.6333,Tecnología,Grande,En crecimiento,1982,42,465,558480.76,20.3,16.2,8.2
+603,Santiago,-33.4489,-70.6693,Finanzas,Mediana,Estable,2006,18,76,146542.12,2.1,-5.5,8.2
+604,Cartagena,10.423,-75.5434,Salud,Mediana,Activa,2002,22,82,301794.58,16.6,8.0,8.9
+605,Bogotá,-4.711,-74.0721,Educación,Pequeña,Estable,1993,31,13,83593.36,11.0,-5.7,7.5
+606,Bogotá,-4.711,-74.0721,Energía,Pequeña,En riesgo,2013,11,9,36081.07,13.1,-18.9,5.1
+607,São Paulo,-23.5505,-46.6333,Telecomunicaciones,Pequeña,En riesgo,1980,44,14,44547.53,9.7,-16.1,4.2
+608,Caracas,10.4806,-66.9036,Tecnología,Pequeña,Estable,1986,38,20,70417.68,15.3,2.8,8.1
+609,Guayaquil,-2.19,-79.897,Turismo,Grande,Estable,1973,51,491,925749.88,0.1,3.4,5.6
+610,Quito,-0.1807,-78.4678,Retail,Pequeña,Estable,2016,8,7,36832.78,6.8,9.4,8.0
+611,Guayaquil,-2.19,-79.897,Tecnología,Mediana,Estable,1994,30,88,167321.84,19.9,9.3,6.6
+612,Santiago,-33.4489,-70.6693,Agro,Pequeña,Activa,1999,25,10,90119.54,1.5,14.1,9.0
+613,Bogotá,-4.711,-74.0721,Educación,Pequeña,En crecimiento,1978,46,26,108078.67,8.4,20.4,8.5
+614,Medellín,6.2518,-75.5636,Educación,Mediana,En crecimiento,1990,34,91,136193.27,7.6,11.0,7.7
+615,Manizales,5.0689,-75.5175,Telecomunicaciones,Pequeña,Inactiva,1989,35,21,46568.78,9.1,-36.2,2.9
+616,Cali,3.4516,-76.6319,Salud,Pequeña,En crecimiento,1988,36,15,101053.74,15.1,28.1,8.4
+617,Bogotá,-4.711,-74.0721,Manufactura,Pequeña,En crecimiento,1988,36,14,61030.31,6.6,27.1,8.4
+618,Panamá,8.9936,-79.5193,Agro,Pequeña,En crecimiento,1981,43,27,39150.12,9.8,18.3,7.3
+619,Bucaramanga,7.088,-73.0836,Tecnología,Grande,Estable,2006,18,590,692383.04,16.0,-6.6,7.0
+620,Guayaquil,-2.19,-79.897,Manufactura,Pequeña,Estable,2011,13,15,88987.44,0.9,-4.3,8.0
+621,Cartagena,10.423,-75.5434,Telecomunicaciones,Pequeña,Activa,1986,38,13,59876.29,8.9,9.0,5.6
+622,Cartagena,10.423,-75.5434,Tecnología,Mediana,En crecimiento,2006,18,40,143637.0,15.3,23.1,8.7
+623,Bucaramanga,7.088,-73.0836,Retail,Pequeña,En riesgo,2023,1,17,90646.61,0.7,-5.7,5.1
+624,Cali,3.4516,-76.6319,Turismo,Grande,En crecimiento,2017,7,380,673857.46,0.1,19.3,9.2
+625,Cartagena,10.423,-75.5434,Manufactura,Mediana,Activa,2008,16,99,268684.92,8.5,6.5,6.3
+626,Cartagena,10.423,-75.5434,Manufactura,Mediana,Estable,1997,27,112,262821.51,2.7,8.8,6.9
+627,Popayán,2.4419,-76.6109,Educación,Mediana,En riesgo,2010,14,130,673826.82,8.1,-24.8,4.7
+628,Popayán,2.4419,-76.6109,Telecomunicaciones,Pequeña,Activa,2004,20,17,43881.81,18.0,9.9,8.1
+629,Rio de Janeiro,-22.9068,-43.1729,Telecomunicaciones,Mediana,En riesgo,2016,8,52,262817.83,13.7,-14.0,5.0
+630,Guayaquil,-2.19,-79.897,Manufactura,Pequeña,En riesgo,2017,7,6,25291.89,7.4,-7.7,3.0
+631,Buenos Aires,-34.6037,-58.3816,Agro,Grande,En crecimiento,1987,37,287,1089007.0,9.6,25.1,8.1
+632,Manizales,5.0689,-75.5175,Manufactura,Pequeña,Inactiva,1983,41,25,33227.41,9.7,-29.2,5.6
+633,Buenos Aires,-34.6037,-58.3816,Finanzas,Mediana,En riesgo,2004,20,165,204623.42,6.7,-15.0,5.2
+634,Bogotá,-4.711,-74.0721,Manufactura,Mediana,En riesgo,2013,11,72,300944.16,5.1,-25.8,6.5
+635,Rio de Janeiro,-22.9068,-43.1729,Turismo,Pequeña,Estable,2010,14,8,14804.55,2.9,6.5,8.2
+636,Santiago,-33.4489,-70.6693,Turismo,Pequeña,Activa,1976,48,11,23497.83,2.8,9.4,8.8
+637,Santiago,-33.4489,-70.6693,Agro,Grande,Activa,2010,14,630,1419004.64,2.8,16.4,7.6
+638,Barranquilla,11.0719,-74.7819,Finanzas,Grande,En crecimiento,1982,42,315,1593754.33,5.6,19.6,8.4
+639,Bogotá,-4.711,-74.0721,Tecnología,Pequeña,Activa,1987,37,18,44491.88,19.1,13.5,7.5
+640,Guayaquil,-2.19,-79.897,Salud,Grande,En crecimiento,2006,18,427,1469714.06,11.3,15.6,7.8
+641,Pereira,4.8133,-75.6958,Finanzas,Multinacional,En riesgo,1982,42,3321,6520057.76,9.9,-28.2,5.4
+642,Medellín,6.2518,-75.5636,Energía,Grande,En riesgo,2005,19,827,1486185.55,11.2,-12.6,3.9
+643,Pereira,4.8133,-75.6958,Turismo,Pequeña,Estable,2000,24,18,62121.62,2.2,-1.4,9.2
+644,Santa Marta,11.2469,-74.0515,Manufactura,Grande,En riesgo,1971,53,424,1857129.42,6.7,-18.3,3.4
+645,Medellín,6.2518,-75.5636,Finanzas,Pequeña,En riesgo,1985,39,32,35429.46,7.8,-6.6,5.5
+646,Cali,3.4516,-76.6319,Manufactura,Multinacional,En crecimiento,1978,46,2875,12641548.78,1.6,29.2,9.5
+647,São Paulo,-23.5505,-46.6333,Educación,Mediana,Activa,1978,46,58,324516.64,7.7,8.6,7.0
+648,Lima,-12.0464,-77.0428,Finanzas,Pequeña,En crecimiento,2007,17,19,92585.26,1.4,20.9,6.5
+649,Bogotá,-4.711,-74.0721,Energía,Grande,Estable,1980,44,478,3070687.03,18.0,2.4,8.3
+650,Lima,-12.0464,-77.0428,Retail,Pequeña,En crecimiento,2023,1,13,24304.45,2.4,18.1,8.0
+651,Cartagena,10.423,-75.5434,Finanzas,Multinacional,Estable,1991,33,2032,5206603.75,1.5,5.4,7.9
+652,Guayaquil,-2.19,-79.897,Tecnología,Multinacional,Activa,2002,22,2218,12015717.23,28.8,-1.2,7.1
+653,Panamá,8.9936,-79.5193,Salud,Mediana,Estable,2005,19,64,130495.18,13.4,-4.4,9.0
+654,Caracas,10.4806,-66.9036,Tecnología,Pequeña,En riesgo,2014,10,13,101708.56,17.4,-16.7,2.0
+655,Caracas,10.4806,-66.9036,Manufactura,Mediana,Estable,1992,32,57,252608.63,5.6,5.2,7.4
+656,Cartagena,10.423,-75.5434,Educación,Pequeña,Inactiva,2014,10,17,66655.63,5.5,-26.8,4.8
+657,Buenos Aires,-34.6037,-58.3816,Turismo,Pequeña,En riesgo,2014,10,16,47173.28,3.7,-3.8,4.6
+658,Medellín,6.2518,-75.5636,Finanzas,Grande,Inactiva,2003,21,459,747717.79,0.1,-20.2,3.6
+659,Quito,-0.1807,-78.4678,Tecnología,Pequeña,Inactiva,1978,46,14,84757.59,21.3,-29.8,2.7
+660,Rio de Janeiro,-22.9068,-43.1729,Finanzas,Pequeña,En riesgo,1993,31,13,197825.34,1.6,-8.2,4.5
+661,Santa Marta,11.2469,-74.0515,Salud,Multinacional,Estable,1977,47,4450,6183827.42,13.8,-0.4,4.9
+662,Bucaramanga,7.088,-73.0836,Finanzas,Pequeña,Activa,1976,48,15,42556.97,7.3,10.8,6.3
+663,Medellín,6.2518,-75.5636,Salud,Pequeña,En crecimiento,2005,19,24,13296.13,14.4,27.1,6.9
+664,Bucaramanga,7.088,-73.0836,Agro,Multinacional,Estable,1987,37,1678,15724075.25,3.5,8.7,7.7
+665,São Paulo,-23.5505,-46.6333,Salud,Pequeña,En crecimiento,1972,52,18,78878.26,12.0,23.2,7.1
+666,Medellín,6.2518,-75.5636,Telecomunicaciones,Grande,En crecimiento,1997,27,298,630509.65,18.3,31.6,7.1
+667,São Paulo,-23.5505,-46.6333,Finanzas,Multinacional,Inactiva,1975,49,2001,2849087.62,6.6,-22.4,2.7
+668,Caracas,10.4806,-66.9036,Agro,Multinacional,En riesgo,2013,11,2120,3018698.87,0.8,-11.2,3.6
+669,Rio de Janeiro,-22.9068,-43.1729,Manufactura,Mediana,En riesgo,2013,11,66,414207.49,6.5,-13.8,4.8
+670,Medellín,6.2518,-75.5636,Energía,Pequeña,En crecimiento,1990,34,12,72567.61,6.5,18.2,8.3
+671,Montevideo,-34.9033,-56.188,Energía,Pequeña,Activa,1997,27,24,31511.61,15.2,10.5,8.2
+672,Bucaramanga,7.088,-73.0836,Turismo,Grande,Activa,2009,15,407,1925325.65,3.6,8.6,8.0
+673,Bogotá,-4.711,-74.0721,Turismo,Grande,En crecimiento,2023,1,437,1624018.56,0.1,23.6,8.5
+674,Caracas,10.4806,-66.9036,Turismo,Mediana,Activa,2023,1,66,249671.89,5.1,10.9,6.8
+675,Popayán,2.4419,-76.6109,Turismo,Pequeña,Activa,1970,54,21,81216.74,2.2,9.5,6.7
+676,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Pequeña,Inactiva,2005,19,17,27372.95,14.1,-12.9,2.2
+677,Guayaquil,-2.19,-79.897,Finanzas,Pequeña,Estable,1990,34,13,88747.27,6.1,-1.2,5.8
+678,Cartagena,10.423,-75.5434,Manufactura,Grande,En crecimiento,2012,12,212,1042065.01,7.1,24.6,8.0
+679,Barranquilla,11.0719,-74.7819,Turismo,Mediana,Activa,2004,20,87,731100.41,6.4,6.6,6.3
+680,Popayán,2.4419,-76.6109,Agro,Multinacional,En crecimiento,1982,42,3147,4839389.28,4.2,7.2,9.6
+681,Guayaquil,-2.19,-79.897,Manufactura,Grande,Activa,2018,6,270,1258196.15,6.3,6.8,7.2
+682,Popayán,2.4419,-76.6109,Telecomunicaciones,Pequeña,Inactiva,2023,1,13,51486.34,12.5,-30.6,5.0
+683,Guayaquil,-2.19,-79.897,Educación,Mediana,En crecimiento,2023,1,99,307951.33,12.8,21.6,8.5
+684,Montevideo,-34.9033,-56.188,Educación,Mediana,En crecimiento,1979,45,42,383445.2,7.1,21.8,6.9
+685,Cartagena,10.423,-75.5434,Finanzas,Mediana,En crecimiento,2022,2,61,157738.92,6.4,24.3,7.7
+686,Medellín,6.2518,-75.5636,Finanzas,Grande,Activa,2013,11,465,1472275.12,6.9,4.8,5.2
+687,Bucaramanga,7.088,-73.0836,Agro,Grande,Estable,2016,8,622,1607260.15,5.0,-0.4,7.1
+688,Medellín,6.2518,-75.5636,Salud,Grande,Estable,2022,2,958,1152111.1,14.0,6.2,6.1
+689,Santiago,-33.4489,-70.6693,Energía,Pequeña,Estable,1979,45,32,61194.19,10.4,-2.9,5.6
+690,Quito,-0.1807,-78.4678,Finanzas,Pequeña,Activa,2015,9,15,25504.07,4.7,-3.0,9.0
+691,Quito,-0.1807,-78.4678,Manufactura,Grande,Estable,1982,42,329,1274097.6,11.9,2.9,8.1
+692,Panamá,8.9936,-79.5193,Manufactura,Pequeña,Estable,2006,18,21,34309.8,4.6,8.4,8.1
+693,Quito,-0.1807,-78.4678,Finanzas,Pequeña,En riesgo,2007,17,12,42534.16,2.3,-7.9,5.4
+694,Rio de Janeiro,-22.9068,-43.1729,Turismo,Pequeña,En crecimiento,1993,31,11,103083.64,3.0,23.1,6.3
+695,Caracas,10.4806,-66.9036,Finanzas,Mediana,En crecimiento,1971,53,70,624536.85,4.8,29.5,7.3
+696,Panamá,8.9936,-79.5193,Tecnología,Pequeña,Estable,1991,33,12,94370.76,18.6,8.5,6.5
+697,Quito,-0.1807,-78.4678,Finanzas,Mediana,Estable,1986,38,94,238091.21,3.6,0.0,4.8
+698,Panamá,8.9936,-79.5193,Tecnología,Multinacional,En crecimiento,2005,19,1964,12594379.97,18.3,23.5,7.1
+699,Pereira,4.8133,-75.6958,Finanzas,Pequeña,En crecimiento,1983,41,15,52889.46,5.4,23.7,7.1
+700,Barranquilla,11.0719,-74.7819,Turismo,Pequeña,En crecimiento,1979,45,28,51152.83,5.7,21.5,8.0
+701,Pereira,4.8133,-75.6958,Turismo,Pequeña,En riesgo,2004,20,15,48102.89,3.3,-5.2,7.5
+702,Barranquilla,11.0719,-74.7819,Manufactura,Grande,En crecimiento,1994,30,733,3613489.9,6.3,21.1,7.8
+703,Cali,3.4516,-76.6319,Tecnología,Pequeña,Inactiva,1972,52,24,98982.42,19.5,-28.0,3.4
+704,Cali,3.4516,-76.6319,Manufactura,Pequeña,En crecimiento,2016,8,19,72564.17,8.6,6.5,7.5
+705,São Paulo,-23.5505,-46.6333,Educación,Pequeña,Inactiva,2007,17,13,45918.7,5.0,-29.8,4.1
+706,Rio de Janeiro,-22.9068,-43.1729,Finanzas,Grande,En riesgo,1986,38,606,1529965.96,1.2,-19.9,3.2
+707,Rio de Janeiro,-22.9068,-43.1729,Retail,Mediana,En crecimiento,1981,43,72,391140.09,7.1,21.8,10.0
+708,Cartagena,10.423,-75.5434,Tecnología,Grande,En riesgo,2023,1,399,1155647.34,20.1,-19.5,4.4
+709,São Paulo,-23.5505,-46.6333,Turismo,Multinacional,Activa,2021,3,2852,12789178.7,2.3,11.7,6.7
+710,Popayán,2.4419,-76.6109,Turismo,Pequeña,Inactiva,1993,31,14,31544.54,3.1,-18.3,4.4
+711,Bucaramanga,7.088,-73.0836,Finanzas,Grande,Estable,1998,26,299,1824647.75,3.8,1.8,5.8
+712,Bogotá,-4.711,-74.0721,Salud,Pequeña,Activa,2012,12,8,15913.46,15.6,2.1,8.1
+713,Cartagena,10.423,-75.5434,Salud,Grande,Estable,1994,30,587,1139005.88,12.1,3.7,8.6
+714,Manizales,5.0689,-75.5175,Retail,Mediana,Inactiva,2005,19,100,847779.89,4.5,-13.6,2.9
+715,Lima,-12.0464,-77.0428,Finanzas,Grande,Activa,1995,29,200,2518241.54,5.5,17.5,9.7
+716,Buenos Aires,-34.6037,-58.3816,Educación,Pequeña,Estable,2007,17,11,107743.91,8.6,-6.4,7.7
+717,Medellín,6.2518,-75.5636,Finanzas,Pequeña,Estable,1970,54,16,35815.08,2.3,-6.7,7.7
+718,Guayaquil,-2.19,-79.897,Manufactura,Pequeña,En riesgo,1989,35,17,52662.81,7.6,-22.2,6.1
+719,Buenos Aires,-34.6037,-58.3816,Tecnología,Pequeña,En crecimiento,1997,27,8,94918.55,15.4,15.2,9.8
+720,Santiago,-33.4489,-70.6693,Finanzas,Pequeña,Activa,1985,39,14,68619.07,2.9,9.5,7.5
+721,Manizales,5.0689,-75.5175,Turismo,Pequeña,Activa,2016,8,18,64476.83,3.3,4.7,8.2
+722,Caracas,10.4806,-66.9036,Telecomunicaciones,Pequeña,Estable,1986,38,13,112991.66,19.5,-3.0,8.6
+723,Caracas,10.4806,-66.9036,Salud,Mediana,En crecimiento,2009,15,88,178315.6,15.5,28.2,6.4
+724,Quito,-0.1807,-78.4678,Educación,Grande,Inactiva,1997,27,329,1367994.9,0.3,-21.8,1.1
+725,Panamá,8.9936,-79.5193,Finanzas,Mediana,Activa,1981,43,115,124803.4,3.1,-2.2,7.1
+726,Guayaquil,-2.19,-79.897,Manufactura,Pequeña,Estable,1996,28,10,28918.17,8.1,7.9,4.8
+727,Barranquilla,11.0719,-74.7819,Educación,Mediana,Activa,2023,1,50,513307.55,4.6,11.0,6.8
+728,Bogotá,-4.711,-74.0721,Turismo,Pequeña,Activa,2022,2,15,31606.04,5.5,11.2,7.6
+729,Pereira,4.8133,-75.6958,Agro,Multinacional,En crecimiento,2011,13,1409,11555987.13,4.5,18.6,7.5
+730,Guayaquil,-2.19,-79.897,Energía,Pequeña,En crecimiento,2016,8,6,114579.11,13.0,20.9,7.6
+731,Cali,3.4516,-76.6319,Finanzas,Grande,Estable,1999,25,617,1372310.78,3.3,-9.8,5.7
+732,Montevideo,-34.9033,-56.188,Retail,Multinacional,Inactiva,2010,14,1686,10374732.28,0.1,-19.8,4.1
+733,Caracas,10.4806,-66.9036,Turismo,Grande,Estable,2003,21,234,2175201.21,4.7,-4.0,5.6
+734,Caracas,10.4806,-66.9036,Turismo,Mediana,Inactiva,2006,18,57,162883.45,3.0,-30.2,1.0
+735,Buenos Aires,-34.6037,-58.3816,Tecnología,Grande,En riesgo,1975,49,283,1102123.68,17.8,-17.3,4.3
+736,Buenos Aires,-34.6037,-58.3816,Telecomunicaciones,Multinacional,Estable,1976,48,2361,4843370.85,16.7,12.8,8.0
+737,Medellín,6.2518,-75.5636,Tecnología,Mediana,En riesgo,2001,23,51,229389.38,19.8,-16.0,4.6
+738,Santiago,-33.4489,-70.6693,Salud,Mediana,Estable,2001,23,97,429163.44,9.0,7.7,5.5
+739,Buenos Aires,-34.6037,-58.3816,Tecnología,Mediana,Activa,2022,2,103,222779.86,20.4,7.9,7.3
+740,Rio de Janeiro,-22.9068,-43.1729,Manufactura,Mediana,Estable,1994,30,48,294773.09,8.1,-3.0,7.4
+741,Santa Marta,11.2469,-74.0515,Salud,Mediana,Activa,2002,22,62,178136.78,18.6,1.9,7.3
+742,Cali,3.4516,-76.6319,Salud,Mediana,Estable,1976,48,64,553905.2,12.2,-1.8,6.6
+743,Caracas,10.4806,-66.9036,Tecnología,Pequeña,Estable,2021,3,14,38071.58,19.0,1.6,7.5
+744,Buenos Aires,-34.6037,-58.3816,Tecnología,Pequeña,Activa,1981,43,23,107073.26,18.3,11.6,5.1
+745,Quito,-0.1807,-78.4678,Turismo,Pequeña,Activa,1985,39,23,51546.67,0.1,5.2,6.1
+746,Caracas,10.4806,-66.9036,Manufactura,Pequeña,Inactiva,1985,39,40,24742.52,8.8,-28.1,1.6
+747,Santiago,-33.4489,-70.6693,Finanzas,Pequeña,Estable,2012,12,6,45902.04,4.3,-3.3,8.5
+748,São Paulo,-23.5505,-46.6333,Finanzas,Mediana,Activa,2022,2,55,176336.49,8.5,0.8,8.1
+749,Bucaramanga,7.088,-73.0836,Manufactura,Pequeña,Estable,2005,19,30,67134.47,3.8,-5.7,7.1
+750,Cali,3.4516,-76.6319,Tecnología,Grande,Estable,1982,42,194,1316245.96,13.6,7.9,5.2
+751,Rio de Janeiro,-22.9068,-43.1729,Educación,Pequeña,En crecimiento,1976,48,30,54251.36,7.3,18.8,8.7
+752,Caracas,10.4806,-66.9036,Telecomunicaciones,Pequeña,Inactiva,2005,19,15,41568.66,12.7,-27.6,4.9
+753,Cartagena,10.423,-75.5434,Turismo,Grande,Estable,2016,8,430,1136318.85,1.4,-2.0,7.6
+754,Popayán,2.4419,-76.6109,Salud,Mediana,En crecimiento,2020,4,47,184374.95,5.8,20.1,7.8
+755,Santa Marta,11.2469,-74.0515,Turismo,Pequeña,En riesgo,1978,46,12,75954.5,4.2,-9.8,5.3
+756,Guayaquil,-2.19,-79.897,Educación,Grande,En riesgo,2001,23,804,1375598.02,9.1,-14.9,4.8
+757,Santa Marta,11.2469,-74.0515,Turismo,Grande,Activa,1980,44,392,1281613.28,5.1,9.1,8.3
+758,Lima,-12.0464,-77.0428,Tecnología,Pequeña,Activa,1977,47,12,45282.29,16.9,16.5,8.3
+759,Guayaquil,-2.19,-79.897,Tecnología,Pequeña,Activa,2002,22,17,35608.78,16.7,3.1,6.9
+760,Santiago,-33.4489,-70.6693,Tecnología,Multinacional,Estable,1992,32,2314,6846693.45,22.3,-0.6,6.1
+761,Montevideo,-34.9033,-56.188,Telecomunicaciones,Mediana,Estable,1994,30,91,332485.88,7.3,5.8,6.4
+762,Barranquilla,11.0719,-74.7819,Energía,Mediana,Estable,1977,47,56,178879.78,9.3,11.0,7.5
+763,Popayán,2.4419,-76.6109,Salud,Grande,Inactiva,2014,10,387,961547.91,15.4,-32.5,2.8
+764,Cali,3.4516,-76.6319,Salud,Pequeña,En riesgo,1991,33,11,99600.29,16.8,-22.2,3.6
+765,Manizales,5.0689,-75.5175,Energía,Mediana,Activa,1973,51,38,250235.93,10.5,8.0,7.2
+766,Santiago,-33.4489,-70.6693,Salud,Pequeña,En crecimiento,2009,15,18,37948.98,12.2,21.4,9.1
+767,São Paulo,-23.5505,-46.6333,Salud,Grande,En crecimiento,1972,52,244,766078.45,18.5,26.2,8.0
+768,Caracas,10.4806,-66.9036,Telecomunicaciones,Mediana,En crecimiento,1998,26,74,459032.63,12.0,25.3,7.5
+769,Barranquilla,11.0719,-74.7819,Salud,Mediana,Estable,2010,14,115,176941.57,10.0,1.8,7.3
+770,Caracas,10.4806,-66.9036,Manufactura,Pequeña,En riesgo,1998,26,8,49619.14,6.6,-5.7,4.6
+771,Medellín,6.2518,-75.5636,Telecomunicaciones,Pequeña,En crecimiento,2003,21,19,21283.46,13.4,17.9,5.5
+772,Caracas,10.4806,-66.9036,Finanzas,Mediana,Estable,2003,21,70,451632.54,10.9,3.3,7.7
+773,Pereira,4.8133,-75.6958,Tecnología,Grande,En riesgo,1997,27,271,2701732.49,19.2,-19.3,5.0
+774,Pereira,4.8133,-75.6958,Salud,Mediana,En crecimiento,1982,42,179,382237.69,10.6,21.7,7.8
+775,Guayaquil,-2.19,-79.897,Agro,Pequeña,Activa,1984,40,14,23214.64,0.1,-0.8,8.5
+776,Lima,-12.0464,-77.0428,Retail,Grande,En crecimiento,1992,32,318,2281529.79,5.8,15.3,9.3
+777,Rio de Janeiro,-22.9068,-43.1729,Energía,Pequeña,Activa,2013,11,10,33060.81,7.6,18.3,8.2
+778,Popayán,2.4419,-76.6109,Tecnología,Multinacional,Inactiva,1995,29,3556,4454681.66,13.4,-35.9,2.2
+779,Manizales,5.0689,-75.5175,Agro,Pequeña,Activa,1973,51,11,41276.46,7.0,6.7,6.2
+780,Cartagena,10.423,-75.5434,Retail,Mediana,En crecimiento,1995,29,108,245205.99,0.6,27.0,9.1
+781,Bucaramanga,7.088,-73.0836,Manufactura,Pequeña,En crecimiento,2009,15,14,38841.87,8.8,35.3,5.5
+782,Montevideo,-34.9033,-56.188,Telecomunicaciones,Multinacional,Inactiva,1978,46,3906,15123936.17,9.3,-23.9,3.0
+783,Medellín,6.2518,-75.5636,Agro,Mediana,Activa,1974,50,52,820320.79,8.4,9.4,7.7
+784,Santiago,-33.4489,-70.6693,Manufactura,Pequeña,Activa,2001,23,10,25215.4,8.6,8.2,5.1
+785,Bucaramanga,7.088,-73.0836,Turismo,Pequeña,Activa,1989,35,13,35431.7,0.8,14.3,7.5
+786,Cartagena,10.423,-75.5434,Educación,Pequeña,Activa,2019,5,13,53699.15,3.0,10.6,8.3
+787,Bogotá,-4.711,-74.0721,Salud,Pequeña,Activa,1980,44,13,41168.14,21.9,4.5,5.4
+788,Bucaramanga,7.088,-73.0836,Manufactura,Multinacional,Estable,1984,40,7162,9768285.03,5.4,8.7,8.9
+789,Bucaramanga,7.088,-73.0836,Educación,Mediana,Activa,2001,23,182,474269.23,5.7,5.2,6.0
+790,Panamá,8.9936,-79.5193,Retail,Grande,Activa,1997,27,450,2181795.32,6.2,-1.6,7.9
+791,Barranquilla,11.0719,-74.7819,Telecomunicaciones,Mediana,En riesgo,1991,33,94,406933.29,14.8,-21.6,4.4
+792,Quito,-0.1807,-78.4678,Energía,Mediana,En crecimiento,2010,14,72,687684.55,13.5,20.8,7.9
+793,Manizales,5.0689,-75.5175,Tecnología,Pequeña,En crecimiento,1986,38,9,22590.95,17.7,22.6,6.3
+794,Cali,3.4516,-76.6319,Educación,Pequeña,En crecimiento,1995,29,13,104802.48,13.6,27.7,9.3
+795,Rio de Janeiro,-22.9068,-43.1729,Tecnología,Grande,Inactiva,2013,11,544,1220144.5,14.1,-21.2,3.6
+796,Pereira,4.8133,-75.6958,Manufactura,Multinacional,Activa,1976,48,4214,11846164.59,4.3,8.5,9.1
+797,Cartagena,10.423,-75.5434,Energía,Pequeña,En riesgo,2011,13,22,29880.02,11.2,-5.9,3.0
+798,Barranquilla,11.0719,-74.7819,Retail,Pequeña,En riesgo,1995,29,8,31746.26,5.5,-11.9,4.3
+799,Bucaramanga,7.088,-73.0836,Finanzas,Mediana,Activa,1994,30,71,417732.44,7.0,0.3,7.5
+800,Medellín,6.2518,-75.5636,Retail,Multinacional,Inactiva,1979,45,1389,3049801.57,1.8,-34.1,3.3
