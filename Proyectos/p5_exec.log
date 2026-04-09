@@ -1,0 +1,74 @@
+[NbConvertApp] Converting notebook P_5JVP.ipynb to notebook
+C:\Users\jeron\AppData\Local\Programs\Python\Python311\Lib\site-packages\zmq\_future.py:718: RuntimeWarning: Proactor event loop does not implement add_reader family of methods required for zmq. Registering an additional selector thread for add_reader support via tornado. Use `asyncio.set_event_loop_policy(WindowsSelectorEventLoopPolicy())` to avoid this warning.
+  self._get_loop()
+[CV] END clf__C=0.25, tfidf__max_features=150000, tfidf__min_df=1; total time= 3.9min
+[CV] END clf__C=0.4, tfidf__max_features=200000, tfidf__min_df=1; total time=  30.3s
+[CV] END clf__C=0.4, tfidf__max_features=200000, tfidf__min_df=1; total time=  36.9s
+[CV] END clf__C=0.5, tfidf__max_features=150000, tfidf__min_df=1; total time=  28.6s
+[CV] END clf__C=0.5, tfidf__max_features=200000, tfidf__min_df=1; total time=  30.1s
+[CV] END clf__C=0.25, tfidf__max_features=250000, tfidf__min_df=2; total time=  21.1s
+[CV] END clf__C=0.25, tfidf__max_features=250000, tfidf__min_df=2; total time=  30.3s
+[CV] END clf__C=0.25, tfidf__max_features=350000, tfidf__min_df=2; total time=  14.2s
+[CV] END clf__C=0.35, tfidf__max_features=250000, tfidf__min_df=2; total time=   3.3s
+[CV] END clf__C=0.35, tfidf__max_features=300000, tfidf__min_df=2; total time=   9.2s
+[CV] END clf__C=0.35, tfidf__max_features=300000, tfidf__min_df=2; total time=   3.9s
+[CV] END clf__C=0.35, tfidf__max_features=350000, tfidf__min_df=2; total time=   5.0s
+[CV] END clf__C=0.4, tfidf__max_features=250000, tfidf__min_df=2; total time=  41.3s
+[CV] END clf__C=0.5, tfidf__max_features=300000, tfidf__min_df=2; total time=  24.9s
+[CV] END clf__C=0.25, tfidf__max_features=150000, tfidf__min_df=1; total time= 8.0min
+[CV] END clf__C=0.5, tfidf__max_features=250000, tfidf__min_df=2; total time=  47.4s
+[CV] END clf__C=0.4, tfidf__max_features=150000, tfidf__min_df=1; total time= 4.8min
+[CV] END clf__C=0.5, tfidf__max_features=150000, tfidf__min_df=1; total time=  25.7s
+[CV] END clf__C=0.5, tfidf__max_features=150000, tfidf__min_df=1; total time=  27.3s
+[CV] END clf__C=0.5, tfidf__max_features=200000, tfidf__min_df=1; total time=  43.0s
+[CV] END clf__C=0.25, tfidf__max_features=250000, tfidf__min_df=2; total time=  26.8s
+[CV] END clf__C=0.25, tfidf__max_features=300000, tfidf__min_df=2; total time=  10.8s
+[CV] END clf__C=0.25, tfidf__max_features=350000, tfidf__min_df=2; total time=  30.3s
+[CV] END clf__C=0.4, tfidf__max_features=300000, tfidf__min_df=2; total time=  21.4s
+[CV] END clf__C=0.4, tfidf__max_features=350000, tfidf__min_df=2; total time=  15.2s
+[CV] END clf__C=0.4, tfidf__max_features=350000, tfidf__min_df=2; total time=  52.7s
+[CV] END clf__C=0.35, tfidf__max_features=200000, tfidf__min_df=1; total time= 5.6min
+[CV] END clf__C=0.5, tfidf__max_features=200000, tfidf__min_df=1; total time= 1.0min
+[CV] END clf__C=0.25, tfidf__max_features=300000, tfidf__min_df=2; total time=  28.6s
+[CV] END clf__C=0.25, tfidf__max_features=350000, tfidf__min_df=2; total time=  18.1s
+[CV] END clf__C=0.35, tfidf__max_features=250000, tfidf__min_df=2; total time=  14.6s
+[CV] END clf__C=0.4, tfidf__max_features=250000, tfidf__min_df=2; total time=   4.8s
+[CV] END clf__C=0.4, tfidf__max_features=300000, tfidf__min_df=2; total time=  20.3s
+[CV] END clf__C=0.4, tfidf__max_features=350000, tfidf__min_df=2; total time=  22.4s
+[CV] END clf__C=0.5, tfidf__max_features=250000, tfidf__min_df=2; total time=  26.9s
+[CV] END clf__C=0.5, tfidf__max_features=350000, tfidf__min_df=2; total time=  41.5s
+[CV] END clf__C=0.35, tfidf__max_features=150000, tfidf__min_df=1; total time= 8.3min
+[CV] END clf__C=0.5, tfidf__max_features=300000, tfidf__min_df=2; total time=  13.8s
+[CV] END clf__C=0.5, tfidf__max_features=350000, tfidf__min_df=2; total time=  28.6s
+[CV] END clf__C=0.35, tfidf__max_features=150000, tfidf__min_df=1; total time= 8.0min
+[CV] END clf__C=0.4, tfidf__max_features=300000, tfidf__min_df=2; total time=  41.3s
+[CV] END clf__C=0.5, tfidf__max_features=250000, tfidf__min_df=2; total time= 1.9min
+[CV] END clf__C=0.4, tfidf__max_features=150000, tfidf__min_df=1; total time=11.1min
+[CV] END clf__C=0.25, tfidf__max_features=150000, tfidf__min_df=1; total time= 6.1min
+[CV] END clf__C=0.25, tfidf__max_features=300000, tfidf__min_df=2; total time=  19.4s
+[CV] END clf__C=0.35, tfidf__max_features=250000, tfidf__min_df=2; total time=   2.8s
+[CV] END clf__C=0.35, tfidf__max_features=300000, tfidf__min_df=2; total time=   4.8s
+[CV] END clf__C=0.35, tfidf__max_features=350000, tfidf__min_df=2; total time=   3.9s
+[CV] END clf__C=0.35, tfidf__max_features=350000, tfidf__min_df=2; total time=   5.0s
+[CV] END clf__C=0.4, tfidf__max_features=250000, tfidf__min_df=2; total time=  36.9s
+[CV] END clf__C=0.5, tfidf__max_features=300000, tfidf__min_df=2; total time=  25.1s
+[CV] END clf__C=0.5, tfidf__max_features=350000, tfidf__min_df=2; total time= 4.6min
+[CV] END clf__C=0.35, tfidf__max_features=150000, tfidf__min_df=1; total time=14.6min
+[CV] END clf__C=0.25, tfidf__max_features=200000, tfidf__min_df=1; total time=16.7min
+[CV] END clf__C=0.35, tfidf__max_features=200000, tfidf__min_df=1; total time=16.8min
+[CV] END clf__C=0.25, tfidf__max_features=200000, tfidf__min_df=1; total time=16.8min
+[CV] END clf__C=0.35, tfidf__max_features=200000, tfidf__min_df=1; total time=16.8min
+[CV] END clf__C=0.4, tfidf__max_features=150000, tfidf__min_df=1; total time=17.7min
+[CV] END clf__C=0.4, tfidf__max_features=200000, tfidf__min_df=1; total time=18.1min
+[CV] END clf__C=0.25, tfidf__max_features=200000, tfidf__min_df=1; total time=18.1min
+Traceback (most recent call last):
+  File "C:\Users\jeron\AppData\Local\Programs\Python\Python311\Lib\site-packages\joblib\externals\loky\backend\resource_tracker.py", line 319, in main
+    del registry[rtype][name]
+        ~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'C:\\Users\\jeron\\AppData\\Local\\Temp\\joblib_memmapping_folder_25888_32a96239fdb343b581d8df72ae3f6750_3d289ffce71a40a2925e5efea2f563fb'
+Traceback (most recent call last):
+  File "C:\Users\jeron\AppData\Local\Programs\Python\Python311\Lib\site-packages\joblib\externals\loky\backend\resource_tracker.py", line 319, in main
+    del registry[rtype][name]
+        ~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'C:\\Users\\jeron\\AppData\\Local\\Temp\\joblib_memmapping_folder_25888_32a96239fdb343b581d8df72ae3f6750_8d310808c80c4b2f977124992b1e5f3e'
+[NbConvertApp] Writing 408469 bytes to P_5JVP.ipynb
